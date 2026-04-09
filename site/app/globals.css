@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Times New Roman", serif;
+}
+
+html {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.lyric-block {
+  white-space: pre-wrap;
+}
