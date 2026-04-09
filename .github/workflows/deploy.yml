@@ -35,6 +35,8 @@ jobs:
       - name: Build
         run: npm run build
         working-directory: site
+        env:
+          BASE_PATH: /tnbgj-songbook
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
