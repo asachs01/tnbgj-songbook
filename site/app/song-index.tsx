@@ -41,28 +41,30 @@ export default function SongIndex({ songs }: { songs: Item[] }) {
       {groups.length === 0 && (
         <p className="text-stone-500">No songs match.</p>
       )}
-      {groups.map(([letter, items]) => (
-        <section key={letter} className="mb-8">
-          <h2 className="font-serif text-xl text-stone-500 border-b border-stone-200 pb-1 mb-3">
-            {letter}
-          </h2>
-          <ul className="divide-y divide-stone-100">
-            {items.map((s) => (
-              <li key={s.slug} className="py-2 flex items-baseline justify-between">
-                <Link
-                  href={`/songs/${s.slug}`}
-                  className="font-serif text-lg hover:underline"
-                >
-                  {s.title}
-                </Link>
-                <span className="text-xs uppercase tracking-wider text-stone-500">
-                  {s.key}
-                </span>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
+      <div className="lg:columns-2 xl:columns-3 lg:gap-8">
+        {groups.map(([letter, items]) => (
+          <section key={letter} className="mb-8 break-inside-avoid">
+            <h2 className="font-serif text-xl text-stone-500 border-b border-stone-200 pb-1 mb-3">
+              {letter}
+            </h2>
+            <ul className="divide-y divide-stone-100">
+              {items.map((s) => (
+                <li key={s.slug} className="py-2 flex items-baseline justify-between">
+                  <Link
+                    href={`/songs/${s.slug}`}
+                    className="font-serif text-lg hover:underline"
+                  >
+                    {s.title}
+                  </Link>
+                  <span className="text-xs uppercase tracking-wider text-stone-500">
+                    {s.key}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </div>
     </div>
   );
 }

@@ -52,7 +52,7 @@ export default function ChordSectionInteractive({
       {sections.map((sec, si) => (
         <div key={si} className="mb-6">
           <h3 className="font-serif text-lg text-stone-600 mb-2">{sec.name}</h3>
-          <table className="w-full border-collapse text-sm">
+          <table className="w-full border-collapse text-sm lg:text-base">
             <tbody>
               {sec.rows.map((row, ri) => (
                 <tr key={ri}>
@@ -60,7 +60,7 @@ export default function ChordSectionInteractive({
                     <td
                       key={ci}
                       colSpan={cell.cells || 1}
-                      className="border border-stone-300 px-3 py-2 text-center font-serif"
+                      className="border border-stone-300 px-3 py-2 lg:px-4 lg:py-3 text-center font-serif"
                     >
                       {formatChord(cell, semitones)}
                     </td>

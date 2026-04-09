@@ -14,7 +14,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="min-h-screen bg-stone-50 text-stone-900 antialiased">
         <header className="border-b border-stone-200 bg-white">
-          <div className="mx-auto max-w-3xl px-6 py-6 flex items-baseline justify-between">
+          <div className="mx-auto max-w-6xl px-6 py-6 flex items-baseline justify-between">
             <Link href="/" className="font-serif text-2xl tracking-tight">
               Songbook
             </Link>
@@ -27,9 +27,9 @@ export default function RootLayout({
             </nav>
           </div>
         </header>
-        <main className="mx-auto max-w-3xl px-6 py-10">{children}</main>
+        <main className="mx-auto max-w-6xl px-6 py-10">{children}</main>
         <footer className="mt-16 border-t border-stone-200 bg-white">
-          <div className="mx-auto max-w-3xl px-6 py-6 text-xs text-stone-500">
+          <div className="mx-auto max-w-6xl px-6 py-6 text-xs text-stone-500">
             Rendered as-is from source data.{" "}
             <Link href="/notes" className="underline hover:text-stone-800">
               Known data issues

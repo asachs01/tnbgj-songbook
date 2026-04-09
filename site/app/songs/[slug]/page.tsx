@@ -28,42 +28,48 @@ export default async function SongPage({
     <article>
       <header className="mb-8">
         <Link href="/" className="text-sm text-stone-500 hover:text-stone-800">
-          ← All songs
+          &larr; All songs
         </Link>
-        <h1 className="font-serif text-4xl mt-3">{song.title}</h1>
+        <h1 className="font-serif text-3xl lg:text-4xl mt-3">{song.title}</h1>
         <div className="mt-2 text-sm text-stone-600">
           <span className="uppercase tracking-wider">Key {song.key}</span>
-          <span className="mx-2 text-stone-300">·</span>
+          <span className="mx-2 text-stone-300">&middot;</span>
           <span>Page {song.original_page}</span>
         </div>
       </header>
 
-      {grid && grid.sections.length > 0 && (
-        <ChordSectionInteractive sections={grid.sections} songKey={song.key} />
-      )}
+      <div className="lg:grid lg:grid-cols-2 lg:gap-12">
+        {/* Left column: chords */}
+        <div>
+          {grid && grid.sections.length > 0 && (
+            <ChordSectionInteractive sections={grid.sections} songKey={song.key} />
+          )}
 
-      {chart && (
-        <ChordChartFallback
-          src={`/chord-charts/${chart}`}
-          alt={`${song.title} chord chart`}
-        />
-      )}
-
-      <section className="mb-12">
-        <h2 className="font-serif text-2xl mb-4">Lyrics</h2>
-        <div className="space-y-6 leading-relaxed text-stone-800">
-          {song.lyrics.map((block, i) => (
-            <div key={i}>
-              <div className="text-xs uppercase tracking-wider text-stone-400 mb-1">
-                {block.type}
-              </div>
-              <div className="lyric-block font-serif text-lg">
-                {block.lines.join("\n")}
-              </div>
-            </div>
-          ))}
+          {chart && (
+            <ChordChartFallback
+              src={`/chord-charts/${chart}`}
+              alt={`${song.title} chord chart`}
+            />
+          )}
         </div>
-      </section>
+
+        {/* Right column: lyrics */}
+        <section className="mb-12">
+          <h2 className="font-serif text-2xl mb-4">Lyrics</h2>
+          <div className="space-y-6 leading-relaxed text-stone-800">
+            {song.lyrics.map((block, i) => (
+              <div key={i}>
+                <div className="text-xs uppercase tracking-wider text-stone-400 mb-1">
+                  {block.type}
+                </div>
+                <div className="lyric-block font-serif text-lg">
+                  {block.lines.join("\n")}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      </div>
     </article>
   );
 }
