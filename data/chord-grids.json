@@ -1,0 +1,1129 @@
+{
+  "songs": [
+    {
+      "slug": "a-hundred-years-from-now",
+      "title": "A Hundred Years From Now",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "angeline-the-baker",
+      "title": "Angeline the Baker",
+      "key": "D",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "B Part",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "are-you-missing-me",
+      "title": "Are You Missing Me",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "big-eyed-rabbit",
+      "title": "Big Eyed Rabbit",
+      "key": "G",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "B Part",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "blue-moon-of-kentucky",
+      "title": "Blue Moon of Kentucky",
+      "key": "C",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "B Part",
+          "rows": [
+            [{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "blue-ridge-cabin-home",
+      "title": "Blue Ridge Cabin Home",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse/Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse/Chorus (Key of A)",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "blue-night",
+      "title": "Blue Night",
+      "key": "B",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1}],
+            [{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1}],
+            [{"root":"F#","quality":"major","cells":1},{"root":"F#","quality":"major","cells":1},{"root":"F#","quality":"major","cells":1},{"root":"F#","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "blues-stay-away-from-me",
+      "title": "Blues Stay Away From Me",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["Source had A7 and E7 chords; normalized to A and E per spec"]
+    },
+    {
+      "slug": "bringing-in-the-georgia-mail",
+      "title": "Bringing in the Georgia Mail",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bury-me-beneath-the-willow",
+      "title": "Bury Me Beneath the Willow",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of A)",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cabin-in-caroline",
+      "title": "Cabin in Caroline",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "dark-hollow",
+      "title": "Dark Hollow",
+      "key": "C",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of E)",
+          "rows": [
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["Key of G section may be truncated in source image"]
+    },
+    {
+      "slug": "down-in-the-willow-garden",
+      "title": "Down in the Willow Garden",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"Em","quality":"minor","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"Em","quality":"minor","cells":1},{"root":"Em","quality":"minor","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"Em","quality":"minor","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"Em","quality":"minor","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"Em","quality":"minor","cells":1},{"root":"Em","quality":"minor","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"Em","quality":"minor","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["Em root stored as 'Em' since minor is denoted by quality; the 'm' is informational. Quality flag is the source of truth."]
+    },
+    {
+      "slug": "farther-along",
+      "title": "Farther Along",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["3/4 time. A7 normalized to A per spec."]
+    },
+    {
+      "slug": "fox-on-the-run",
+      "title": "Fox on the Run",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["A7 in verse normalized to A. Am stored with quality minor."]
+    },
+    {
+      "slug": "head-over-heels",
+      "title": "Head over Heels",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hot-corn-cold-corn",
+      "title": "Hot Corn, Cold Corn",
+      "key": "C",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "how-mountain-girls-can-love",
+      "title": "How Mountain Girls Can Love",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ill-fly-away",
+      "title": "I'll Fly Away",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of A)",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "in-the-pines",
+      "title": "In the Pines",
+      "key": "E",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of D)",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["3/4 time"]
+    },
+    {
+      "slug": "john-hardy",
+      "title": "John Hardy",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "katy-daly",
+      "title": "Katy Daly",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of A)",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "keep-on-the-sunny-side",
+      "title": "Keep on the Sunny Side",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "little-cabin-home-on-the-hill",
+      "title": "Little Cabin Home on the Hill",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "little-georgia-rose",
+      "title": "Little Georgia Rose",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "little-girl-of-mine-in-tennessee",
+      "title": "Little Girl of Mine in Tennessee",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "little-maggie",
+      "title": "Little Maggie",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lonesome-road-blues",
+      "title": "Lonesome Road Blues",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "long-journey-home",
+      "title": "Long Journey Home",
+      "key": "C",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "love-please-come-home",
+      "title": "Love Please Come Home",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "my-rose-of-old-kentucky",
+      "title": "My Rose of Old Kentucky",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "old-home-place",
+      "title": "Old Home Place",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["B7 normalized to B; A7 normalized to A per spec"]
+    },
+    {
+      "slug": "ole-slew-foot",
+      "title": "Ole Slew Foot",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "new-river-train",
+      "title": "New River Train",
+      "key": "D",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "man-of-constant-sorrow",
+      "title": "Man of Constant Sorrow",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Refrain",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "more-pretty-girls-than-one",
+      "title": "More Pretty Girls Than One",
+      "key": "C",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of D)",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of G)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rabbit-in-the-log",
+      "title": "Rabbit in the Log",
+      "key": "D",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["D7 normalized to D per spec"]
+    },
+    {
+      "slug": "raleigh-and-spencer",
+      "title": "Raleigh and Spencer",
+      "key": "D",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "riding-on-that-midnight-train",
+      "title": "Riding on that Midnight Train",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rocky-top",
+      "title": "Rocky Top",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "roll-in-my-sweet-babys-arms",
+      "title": "Roll in my Sweet Baby's Arms",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "shady-grove",
+      "title": "Shady Grove",
+      "key": "Am",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1},{"root":"A","quality":"minor","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of Em)",
+          "rows": [
+            [{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"B","quality":"minor","cells":1},{"root":"B","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["Em7 and Bm7 normalized to Em and Bm per spec"]
+    },
+    {
+      "slug": "sitting-alone-in-the-moonlight",
+      "title": "Sitting Alone in the Moonlight",
+      "key": "A",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"G#","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"G#","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ],
+      "_warnings": ["3/4 time. A7 in row 3 normalized to A per spec. G# unusual chord but matches [A-G][#b]?m? pattern."]
+    },
+    {
+      "slug": "sitting-on-top-of-the-world",
+      "title": "Sitting on Top of the World",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse (1 4 5)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (added 6min)",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "stay-all-night",
+      "title": "Stay All Night",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Chorus",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "wabash-cannonball",
+      "title": "Wabash Cannonball",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "will-the-circle-be-unbroken",
+      "title": "Will the Circle be Unbroken",
+      "key": "G",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of D)",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "whiskey-before-breakfast",
+      "title": "Whiskey Before Breakfast",
+      "key": "D",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "B Part",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"E","quality":"minor","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "white-freightliner",
+      "title": "White Freightliner",
+      "key": "E",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}],
+            [{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"B","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1}]
+          ]
+        },
+        {
+          "name": "Verse (Key of A)",
+          "rows": [
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}],
+            [{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"E","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1},{"root":"D","quality":"major","cells":1}],
+            [{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1},{"root":"A","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "your-love-is-like-a-flower",
+      "title": "Your Love is Like a Flower",
+      "key": "C",
+      "sections": [
+        {
+          "name": "Verse",
+          "rows": [
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1},{"root":"F","quality":"major","cells":1}],
+            [{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"G","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1},{"root":"C","quality":"major","cells":1}]
+          ]
+        }
+      ]
+    }
+  ]
+}
