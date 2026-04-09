@@ -60,10 +60,36 @@ const QUALITY_MAP: Record<string, string> = {
   sus4: "sus4",
 };
 
-export function formatChord(cell: ChordCell): string {
+export function formatChord(cell: ChordCell, semitones = 0): string {
   const q = QUALITY_MAP[cell.quality] ?? cell.quality ?? "";
-  const bass = cell.bass ? `/${cell.bass}` : "";
-  return `${cell.root}${q}${bass}`;
+  const root = semitones ? transposeNote(cell.root, semitones) : cell.root;
+  const bass = cell.bass
+    ? `/${semitones ? transposeNote(cell.bass, semitones) : cell.bass}`
+    : "";
+  return `${root}${q}${bass}`;
+}
+
+const NOTES_SHARP = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
+const NOTES_FLAT  = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"];
+
+export function transposeNote(note: string, semitones: number): string {
+  // Try sharp spelling first, then flat
+  let idx = NOTES_SHARP.indexOf(note);
+  let useFlats = false;
+  if (idx === -1) {
+    idx = NOTES_FLAT.indexOf(note);
+    useFlats = true;
+  }
+  if (idx === -1) return note; // unknown note, return as-is
+  const newIdx = ((idx + semitones) % 12 + 12) % 12;
+  return useFlats ? NOTES_FLAT[newIdx] : NOTES_SHARP[newIdx];
+}
+
+export function transposeKey(key: string, semitones: number): string {
+  // Handle keys like "G", "Am", "F#m" etc.
+  const match = key.match(/^([A-G][#b]?)(.*)/);
+  if (!match) return key;
+  return transposeNote(match[1], semitones) + match[2];
 }
 
 const manifest = chartManifest as Record<string, string>;

@@ -21,6 +21,8 @@ export default function RootLayout({
             <nav className="text-sm text-stone-600">
               <Link href="/" className="hover:text-stone-900">Index</Link>
               <span className="mx-2 text-stone-300">·</span>
+              <Link href="/how-to-read" className="hover:text-stone-900">How to Read</Link>
+              <span className="mx-2 text-stone-300">·</span>
               <Link href="/notes" className="hover:text-stone-900">Notes</Link>
             </nav>
           </div>

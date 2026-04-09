@@ -1,0 +1,58 @@
+const QUALITY_MAP: Record<string, string> = {
+  major: "",
+  minor: "m",
+  min: "m",
+  m: "m",
+  dom7: "7",
+  "7": "7",
+  maj7: "maj7",
+  min7: "m7",
+  m7: "m7",
+  dim: "dim",
+  dim7: "dim7",
+  aug: "aug",
+  sus2: "sus2",
+  sus4: "sus4",
+};
+
+const NOTES_SHARP = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
+const NOTES_FLAT = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"];
+
+export function transposeNote(note: string, semitones: number): string {
+  let idx = NOTES_SHARP.indexOf(note);
+  let useFlats = false;
+  if (idx === -1) {
+    idx = NOTES_FLAT.indexOf(note);
+    useFlats = true;
+  }
+  if (idx === -1) return note;
+  const newIdx = ((idx + semitones) % 12 + 12) % 12;
+  return useFlats ? NOTES_FLAT[newIdx] : NOTES_SHARP[newIdx];
+}
+
+export function transposeKey(key: string, semitones: number): string {
+  const match = key.match(/^([A-G][#b]?)(.*)/);
+  if (!match) return key;
+  return transposeNote(match[1], semitones) + match[2];
+}
+
+export type ChordCell = {
+  root: string;
+  quality: string;
+  bass?: string;
+  cells: number;
+};
+
+export type ChordSection = {
+  name: string;
+  rows: ChordCell[][];
+};
+
+export function formatChord(cell: ChordCell, semitones = 0): string {
+  const q = QUALITY_MAP[cell.quality] ?? cell.quality ?? "";
+  const root = semitones ? transposeNote(cell.root, semitones) : cell.root;
+  const bass = cell.bass
+    ? `/${semitones ? transposeNote(cell.bass, semitones) : cell.bass}`
+    : "";
+  return `${root}${q}${bass}`;
+}
