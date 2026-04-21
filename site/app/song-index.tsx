@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 
-type Item = { slug: string; title: string; key: string };
+type Item = { slug: string; title: string; key: string | null };
 
 export default function SongIndex({ songs }: { songs: Item[] }) {
   const [q, setQ] = useState("");
@@ -14,7 +14,7 @@ export default function SongIndex({ songs }: { songs: Item[] }) {
     return songs.filter(
       (s) =>
         s.title.toLowerCase().includes(needle) ||
-        s.key.toLowerCase().includes(needle),
+        (s.key?.toLowerCase().includes(needle) ?? false),
     );
   }, [q, songs]);
 
