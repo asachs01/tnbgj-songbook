@@ -9,6 +9,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- **FolkSociety Bluegrass Songbook import** (2018 edition, 324 pages,
+  305 songs across Bluegrass/Country/Folk/Gospel sections). 304 of 305
+  songs extracted via `scripts/import_folksociety_pdf.py`; "Uncloudy Day"
+  failed to parse and needs a manual look. 275 net-new titles added to
+  `songs-merged.json`; 29 titles overlap with the existing 50-song dataset
+  and are kept in `songs-folksociety.json` only (existing curated entries
+  in `songs.json` win the merge — review the FolkSociety version for
+  arrangement/key differences). Songs originally written in Nashville
+  notation use `key: "C"` with the `nashville-default-key` warning so a
+  renderer can transpose. Letter-chord-format songs (3 today) get `key`
+  inferred from the first chord. 16 songs have no chord rows extracted and
+  carry the `no-chord-rows` warning for follow-up.
 - **TypeScript schema** (`data/schema.ts`) — format-agnostic chord data model
   supporting chord grids, Nashville numbers, and tablature. Seventh chords
   (`7`, `major7`, `minor7`) are first-class quality values. Includes optional
