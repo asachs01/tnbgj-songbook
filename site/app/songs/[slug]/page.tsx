@@ -38,7 +38,7 @@ export default async function SongPage({
         </div>
       </header>
 
-      <div className="lg:grid lg:grid-cols-2 lg:gap-12">
+      <div className="md:grid md:grid-cols-2 md:gap-8 lg:gap-12">
         {/* Left column: chords */}
         <div>
           {grid && grid.sections.length > 0 && (

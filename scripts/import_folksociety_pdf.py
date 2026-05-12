@@ -31,7 +31,11 @@ from pathlib import Path
 PDF_PATH = Path("/Users/asachs/.claude/channels/discord/inbox/1778587837952-1503583969109610687.pdf")
 REPO_ROOT = Path("/Users/asachs/Documents/projects/music/songbook-import")
 OUT_PATH = REPO_ROOT / "data/songs-folksociety.json"
-EXISTING_SONGS = REPO_ROOT / "data/songs.json"
+# The site reads from site/data/, not the repo-root data/. Root-level
+# data/ holds the import staging artifacts (songs-folksociety.json,
+# songs-merged.json, chord-charts/, schema.ts); site-level data/ is
+# the source of truth for the rendered site.
+EXISTING_SONGS = REPO_ROOT / "site/data/songs.json"
 
 NASHVILLE_TO_NOTE = {"1": "C", "2": "D", "3": "E", "4": "F", "5": "G", "6": "A", "7": "B"}
 
