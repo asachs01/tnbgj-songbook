@@ -36,12 +36,12 @@ export default function SongIndex({ songs }: { songs: Item[] }) {
         value={q}
         onChange={(e) => setQ(e.target.value)}
         placeholder="Search by title or key…"
-        className="w-full mb-8 rounded border border-stone-300 bg-white px-4 py-2 text-base focus:outline-none focus:ring-2 focus:ring-stone-400"
+        className="w-full mb-8 rounded border border-stone-300 bg-white px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-stone-400"
       />
       {groups.length === 0 && (
         <p className="text-stone-500">No songs match.</p>
       )}
-      <div className="lg:columns-2 xl:columns-3 lg:gap-8">
+      <div className="md:columns-2 xl:columns-3 md:gap-8">
         {groups.map(([letter, items]) => (
           <section key={letter} className="mb-8 break-inside-avoid">
             <h2 className="font-serif text-xl text-stone-500 border-b border-stone-200 pb-1 mb-3">
@@ -49,14 +49,14 @@ export default function SongIndex({ songs }: { songs: Item[] }) {
             </h2>
             <ul className="divide-y divide-stone-100">
               {items.map((s) => (
-                <li key={s.slug} className="py-2 flex items-baseline justify-between">
+                <li key={s.slug} className="flex items-baseline justify-between">
                   <Link
                     href={`/songs/${s.slug}`}
-                    className="font-serif text-lg hover:underline"
+                    className="flex-1 py-3 font-serif text-lg hover:underline active:bg-stone-100 touch-manipulation"
                   >
                     {s.title}
                   </Link>
-                  <span className="text-xs uppercase tracking-wider text-stone-500">
+                  <span className="py-3 pl-3 text-xs uppercase tracking-wider text-stone-500">
                     {s.key}
                   </span>
                 </li>
