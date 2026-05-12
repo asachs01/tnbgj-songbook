@@ -145,18 +145,48 @@ def split_nashville_row(line: str) -> list[dict]:
     return cells
 
 
+NASHVILLE_MARKER_TOKENS = {"half", "st", "nd", "rd", "th", "x2", "x3", "x4"}
+
+
 def is_nashville_row(line: str) -> bool:
-    """True for a whitespace-separated row of Nashville-chord tokens."""
+    """True for a whitespace-separated row of Nashville-chord tokens.
+
+    Permits a small set of marker tokens (half, st, x2, ...) that the
+    PDF sometimes interleaves between the digit chords.
+    """
     stripped = line.strip()
     if not stripped:
         return False
     digits = sum(c.isdigit() for c in stripped)
     if digits < 2:
         return False
-    for c in stripped:
-        if c.isalpha() and c not in "mM7bs":
-            return False
+    for tok in stripped.split():
+        if tok.lower() in NASHVILLE_MARKER_TOKENS:
+            continue
+        # Strip slash/+/- separators before character check
+        bare = re.sub(r"[/+\-]", "", tok)
+        for c in bare:
+            if c.isalpha() and c not in "mM7bs":
+                return False
+            if not (c.isdigit() or c in "mM7bs"):
+                return False
     return True
+
+
+def is_skip_interstitial(line: str) -> bool:
+    """Lines that appear between or before chord rows but aren't chord rows
+    themselves: time-signature markers like '(¾)', capo markers like
+    '(Capo-2)', rest/separator rows like '- - - -', commentary in parens.
+    """
+    s = line.strip()
+    if not s:
+        return False
+    if s.startswith("(") and s.endswith(")"):
+        return True
+    # Rows of just dashes/pluses (rest markers between chord blocks)
+    if all(c in "-+ \t" for c in s):
+        return True
+    return False
 
 
 def parse_letter_chord_token(tok: str) -> dict | None:
@@ -178,31 +208,77 @@ def parse_letter_chord_token(tok: str) -> dict | None:
     return cell
 
 
+def _normalise_letter_chord_tokens(line: str) -> list[str]:
+    """Heuristically clean up letter-chord token streams.
+
+    Handles three classes of OCR/text-extraction noise:
+      - 'F # m' (PDF used a true sharp glyph that got split): re-glue
+      - 'EmEm' (missing space between identical adjacent chords): split
+      - 'Bm A' (already clean): pass through
+    """
+    raw = line.split()
+    # Pass 1: glue separated sharps/flats. Walk tokens, when we see a bare
+    # '#' or 'b' after a single letter A-G and before an optional 'm'/'7',
+    # combine them.
+    glued: list[str] = []
+    i = 0
+    while i < len(raw):
+        tok = raw[i]
+        if (
+            re.match(r"^[A-G]$", tok)
+            and i + 1 < len(raw)
+            and raw[i + 1] in {"#", "b"}
+        ):
+            combined = tok + raw[i + 1]
+            j = i + 2
+            # Pull in trailing quality/suffix like 'm' or '7' or 'm7'
+            if j < len(raw) and re.match(r"^(m|maj7|min7|m7|7|dim|aug)$", raw[j]):
+                combined += raw[j]
+                j += 1
+            glued.append(combined)
+            i = j
+            continue
+        glued.append(tok)
+        i += 1
+    # Pass 2: split adjacent chords like 'EmEm' or 'EmEm7' → 'Em' 'Em' etc.
+    chord_atom = re.compile(
+        r"[A-G][#b]?(?:maj7|min7|m7|m|7|dim|aug|sus2|sus4)?(?:/[A-G][#b]?)?"
+    )
+    out: list[str] = []
+    for tok in glued:
+        if LETTER_CHORD_TOKEN_RE.match(tok):
+            out.append(tok)
+            continue
+        matches = chord_atom.findall(tok)
+        if matches and "".join(matches) == tok:
+            out.extend(matches)
+        else:
+            out.append(tok)
+    return out
+
+
 def is_letter_chord_row(line: str) -> bool:
     """True for a whitespace-separated row of letter-chord tokens."""
     stripped = line.strip()
     if not stripped:
         return False
-    # Reject lines that are obviously prose: any token with 2+ consecutive
-    # lowercase letters (e.g. "the", "moon") fails.
-    tokens = stripped.split()
+    tokens = _normalise_letter_chord_tokens(stripped)
     if len(tokens) < 2:
         return False
     chord_tokens = 0
     for tok in tokens:
         if LETTER_CHORD_TOKEN_RE.match(tok):
             chord_tokens += 1
-        else:
-            # Allow stray '+' / '-' markers
-            if tok in {"+", "-", "x2", "x3", "x4"}:
-                continue
-            return False
+            continue
+        if tok in {"+", "-", "x2", "x3", "x4"}:
+            continue
+        return False
     return chord_tokens >= 2
 
 
 def split_letter_chord_row(line: str) -> list[dict]:
     cells: list[dict] = []
-    for tok in line.split():
+    for tok in _normalise_letter_chord_tokens(line):
         cell = parse_letter_chord_token(tok)
         if cell is not None:
             cells.append(cell)
@@ -217,40 +293,77 @@ def looks_like_title(line: str, known_titles: set[str]) -> bool:
     return normalise_title(line) in known_titles
 
 
-def parse_page_song(page_text: str, known_titles: set[str]) -> dict | None:
-    """If this page begins a song, return its parsed record. Else None."""
+def parse_page_song(page_text: str, known_titles: set[str], start_line: int = 0) -> dict | None:
+    """If a song starts at or after `start_line` on this page, parse it.
+
+    Returns the parsed record (with extra '_start_line' and '_end_line' fields
+    so callers can scan for additional songs on the same page) or None.
+    """
     lines = page_text.splitlines()
-    # Skip leading blanks to find the first content line
-    idx = 0
-    while idx < len(lines) and not lines[idx].strip():
+    idx = start_line
+    matched_title: str | None = None
+    title_idx = -1
+    cursor = -1
+    while idx < len(lines):
+        ln = lines[idx].strip()
+        if not ln:
+            idx += 1
+            continue
+        candidates = [ln]
+        if idx + 1 < len(lines) and lines[idx + 1].strip():
+            candidates.append(ln + " " + lines[idx + 1].strip())
+        consumed = 1
+        cand_match = None
+        for offset, cand in enumerate(candidates):
+            if looks_like_title(cand, known_titles):
+                cand_match = cand
+                consumed = offset + 1
+                break
+        if cand_match is not None:
+            # Confirm: a real title is followed (skipping blanks and
+            # interstitials like '(¾)') by a chord row. Otherwise it's
+            # prose that happens to match — e.g. a chorus line that
+            # repeats the title.
+            probe = idx + consumed
+            chord_follows = False
+            while probe < len(lines):
+                probe_line = lines[probe]
+                probe_stripped = probe_line.strip()
+                if not probe_stripped:
+                    probe += 1
+                    continue
+                if is_skip_interstitial(probe_line):
+                    probe += 1
+                    continue
+                chord_follows = is_nashville_row(probe_line) or is_letter_chord_row(probe_line)
+                break
+            # Also accept it as a song start if start_line == 0 (first
+            # song on the page — top-of-page is a strong visual signal
+            # even when the chord chart is missing).
+            top_of_page = start_line == 0 and len(candidates_blank_prefix := [l for l in lines[:idx] if l.strip()]) == 0
+            if chord_follows or top_of_page:
+                matched_title = cand_match
+                title_idx = idx
+                cursor = idx + consumed
+                break
         idx += 1
-    if idx >= len(lines):
-        return None
-    first = lines[idx].strip()
-    # Some titles wrap onto 2 lines; try first-line, then first+second-line
-    title_candidates = [first]
-    if idx + 1 < len(lines) and lines[idx + 1].strip():
-        title_candidates.append(first + " " + lines[idx + 1].strip())
-
-    matched_title = None
-    title_consumed_lines = 1
-    for offset, cand in enumerate(title_candidates):
-        if looks_like_title(cand, known_titles):
-            matched_title = cand
-            title_consumed_lines = offset + 1
-            break
-
     if matched_title is None:
         return None
 
-    cursor = idx + title_consumed_lines
-
-    # Collect chord rows (Nashville or letter-chord) at the head of the song
+    # Collect chord rows (Nashville or letter-chord) at the head of the song.
+    # Permit interstitial lines like '(¾)' / '(Capo-2)' between rows but
+    # before the lyric block. Once we've started collecting, also tolerate
+    # short section labels like 'Intro' / 'Bass Break' / 'Repeat twice'
+    # that separate one chord block from the next, until we hit something
+    # that's clearly lyric content (inline [Chord] markers).
     chord_rows: list[list[dict]] = []
     chord_style: str | None = None  # "nashville" or "letter"
     while cursor < len(lines):
         ln = lines[cursor]
         if not ln.strip():
+            cursor += 1
+            continue
+        if is_skip_interstitial(ln):
             cursor += 1
             continue
         if is_nashville_row(ln):
@@ -267,11 +380,39 @@ def parse_page_song(page_text: str, known_titles: set[str]) -> dict | None:
                 chord_style = chord_style or "letter"
             cursor += 1
             continue
+        # Tolerate short section-label lines that visually separate chord
+        # blocks (e.g. "Intro", "Bass Break", "Remainder – repeat 3X").
+        # We require the next non-blank line to itself be a chord row,
+        # otherwise we treat this as the start of the lyric block.
+        stripped = ln.strip()
+        if len(stripped) <= 40 and "[" not in stripped:
+            probe = cursor + 1
+            while probe < len(lines) and not lines[probe].strip():
+                probe += 1
+            if probe < len(lines):
+                next_line = lines[probe]
+                if (
+                    is_nashville_row(next_line)
+                    or is_letter_chord_row(next_line)
+                    or is_skip_interstitial(next_line)
+                ):
+                    cursor += 1
+                    continue
         break
 
-    # Lyric block: everything from cursor to end of page
+    # Lyric block: from cursor to the next known title on the same page,
+    # or end-of-page if no other song starts here.
+    end_line = len(lines)
+    for k in range(cursor, len(lines)):
+        candidate = lines[k].strip()
+        if not candidate:
+            continue
+        if looks_like_title(candidate, known_titles) and candidate != matched_title:
+            end_line = k
+            break
+
     lyric_lines: list[str] = []
-    for ln in lines[cursor:]:
+    for ln in lines[cursor:end_line]:
         s = ln.strip()
         if not s:
             if lyric_lines and lyric_lines[-1] != "":
@@ -296,12 +437,33 @@ def parse_page_song(page_text: str, known_titles: set[str]) -> dict | None:
     chord_sections: list[dict] = []
     if chord_rows:
         chord_sections.append({"name": "A Part", "rows": chord_rows})
+    else:
+        # Fallback: derive chord rows from inline-chord lyric tags.
+        # Each lyric line becomes a row; each [Chord] becomes one cell.
+        # Imperfect (no measure structure) but better than empty.
+        fallback_rows: list[list[dict]] = []
+        for ly in sections:
+            for ln in ly["lines"]:
+                matches = INLINE_CHORD_RE.findall(ln)
+                if not matches:
+                    continue
+                row: list[dict] = []
+                for m in matches:
+                    cell = parse_letter_chord_token(m)
+                    if cell:
+                        row.append(cell)
+                if row:
+                    fallback_rows.append(row)
+        if fallback_rows:
+            chord_sections.append({"name": "A Part", "rows": fallback_rows})
+            chord_style = chord_style or "inline-derived"
 
     return {
         "title": matched_title,
         "sections": chord_sections,
         "lyrics": sections,
         "chord_style": chord_style,
+        "_end_line": end_line,
     }
 
 
@@ -330,15 +492,21 @@ def main() -> int:
     existing_titles = {normalise_title(s["title"]) for s in existing["songs"]}
 
     # Walk pages, build (page_idx, parsed_song) pairs for every page that
-    # begins a song. Pages between two song-starts are continuation pages
-    # for the earlier song.
+    # begins a song. Scan each page repeatedly so multi-song pages (e.g.
+    # Uncle Pen + Uncloudy Day on page 297) yield both.
     page_songs: list[tuple[int, dict]] = []
     for i, page_text in enumerate(pages):
-        # Pages are 1-indexed in pdftotext's view
         page_num = i + 1
-        parsed = parse_page_song(page_text, known_titles)
-        if parsed is not None:
+        start = 0
+        while True:
+            parsed = parse_page_song(page_text, known_titles, start_line=start)
+            if parsed is None:
+                break
             page_songs.append((page_num, parsed))
+            new_start = parsed.get("_end_line", -1)
+            if new_start <= start:
+                break
+            start = new_start
 
     # Merge orphan continuation pages into the prior song's lyrics
     final_songs: list[dict] = []
@@ -392,7 +560,6 @@ def main() -> int:
         warnings: list[str] = []
         style = song.get("chord_style")
         if style == "letter":
-            # Letter-chord source: key inferred from first chord, no Nashville mapping
             song_key = (
                 song["sections"][0]["rows"][0][0]["root"]
                 if song["sections"] and song["sections"][0]["rows"]
@@ -405,6 +572,17 @@ def main() -> int:
                 "the canonical recording key is unspecified"
             )
             song_key = "C"
+        elif style == "inline-derived":
+            warnings.append(
+                "inline-derived-chords: no separate chord chart in the source; "
+                "chord rows synthesised from [Chord] tags inline in the lyrics. "
+                "Measure boundaries are approximate (one row per lyric line)"
+            )
+            song_key = (
+                song["sections"][0]["rows"][0][0]["root"]
+                if song["sections"] and song["sections"][0]["rows"]
+                else None
+            )
         else:
             warnings.append(
                 "no-chord-rows: extraction found no chord rows for this song; "

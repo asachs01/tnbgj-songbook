@@ -99,12 +99,6 @@
         {
           "type": "verse",
           "lines": [
-            "(C \u2013 Capo 2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[Dm]There ain't no grave -- can hold my body down",
             "There ain't no [G]grave \u2013 can hold my body [Dm]down"
           ]
@@ -1260,12 +1254,6 @@
         {
           "type": "verse",
           "lines": [
-            "(C)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "My heart is [C]sad my [F]soul is [C]weary",
             "While sailing [D]o'er life's rugged [G]main",
             "The clouds are [C]dark the [F]day is [C]dreary",
@@ -1622,12 +1610,6 @@
         {
           "type": "verse",
           "lines": [
-            "(D Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[C]Ashes of love, [F]cold - [C]as - [G]ice",
             "You made the debt, and I'll pay the [C]price",
             "Our love is gone, [F]there's - [C]no - [G]doubt",
@@ -1662,45 +1644,599 @@
     {
       "slug": "ashokan-farewell",
       "title": "Ashokan Farewell",
-      "key": null,
-      "sections": [],
-      "lyrics": [
+      "key": "D",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "(\u00be)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "D     D/F# G      Em",
-            "D     D     Gmaj7 A7",
-            "D     D7/F# G     Em",
-            "D     Bm    A     D"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "D     D7/F# G      D",
-            "D     Bm    A      A7",
-            "D     C     G      D",
-            "D     A7    D      D"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1,
+                "bass": "F#"
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major7",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1,
+                "bass": "F#"
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "B",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1,
+                "bass": "F#"
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "B",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
         }
       ],
+      "lyrics": [],
       "original_page": 26,
       "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
-      ]
+      "_warnings": []
     },
     {
       "slug": "atlantic-city",
       "title": "Atlantic City",
-      "key": null,
-      "sections": [],
+      "key": "F#",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -1760,7 +2296,7 @@
       "original_page": 27,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -2156,23 +2692,6 @@
               },
               {
                 "root": "C",
-                "quality": "major",
-                "cells": 1
-              }
-            ],
-            [
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
                 "quality": "major",
                 "cells": 1
               }
@@ -3325,12 +3844,6 @@
         {
           "type": "verse",
           "lines": [
-            "(Bb Capo-3)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]In the twilight [C]glow I [G]see her",
             "[D]Blue eyes cryin' in the [G]rain",
             "when we kissed good-[C]bye and [G]parted",
@@ -3351,17 +3864,7 @@
           "lines": [
             "Now my hair has turned to silver",
             "All my life I've love in vain",
-            "I can see her star in heaven",
-            "Blue eyes Crying in the rain"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Someday when we meet up yonder",
-            "We'll stroll hand in hand again",
-            "In the land that knows no parting",
-            "Blue eyes crying in the rain"
+            "I can see her star in heaven"
           ]
         }
       ],
@@ -4444,12 +4947,6 @@
         {
           "type": "verse",
           "lines": [
-            "(B Capo-4)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]At every glance, you steal from [C]me",
             "I catch your [D]eyes still offer[G]ing",
             "You've got desire bought with de[C]ceit",
@@ -4502,8 +4999,63 @@
     {
       "slug": "the-bottle-let-me-down",
       "title": "(The) Bottle Let Me Down",
-      "key": null,
-      "sections": [],
+      "key": "C",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -4542,7 +5094,7 @@
       "original_page": 42,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -4873,26 +5425,7 @@
           "lines": [
             "Ninety miles an hour and she's gaining speed",
             "Listen to the whistle moan and wail, wail, wail",
-            "Has she got the power, I'll say, yes indeed",
-            "Bringing in the Georgia mail"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "See them driver's travel, watch her sand the track",
-            "Ought to put that engineer in jail, jail, jail",
-            "Has he got her rolling, watch her ball the jack",
-            "Bringing in the Georgia mail"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "A-rocking and a-reeling, spouting off that steam",
-            "Bet the fireman hopes the brakes don't fail, fail, fail",
-            "Curbing for the depot, listen to her scream",
-            "Bringing in the Georgia mail"
+            "Has she got the power, I'll say, yes indeed"
           ]
         }
       ],
@@ -5760,17 +6293,99 @@
     {
       "slug": "can-you-run",
       "title": "Can You Run",
-      "key": null,
-      "sections": [],
-      "lyrics": [
+      "key": "C",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "1 1 1 6m          3m 3m 6m 6m 4 2m 5 5           x2",
-            "1 1 1 6m          6m 1 4 4 x 3",
-            "1 1 4 4 x2"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
-        },
+        }
+      ],
+      "lyrics": [
         {
           "type": "verse",
           "lines": [
@@ -5817,7 +6432,7 @@
       "original_page": 49,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
       ]
     },
     {
@@ -5966,8 +6581,277 @@
     {
       "slug": "carolina-in-the-pines",
       "title": "Carolina In The Pines",
-      "key": null,
-      "sections": [],
+      "key": "G",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -6027,7 +6911,7 @@
       "original_page": 51,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -6256,8 +7140,209 @@
     {
       "slug": "christmas-cookies",
       "title": "Christmas Cookies",
-      "key": null,
-      "sections": [],
+      "key": "C",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -6315,7 +7400,7 @@
       "original_page": 53,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -6404,12 +7489,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(+ = extra half measure)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -7473,8 +8552,164 @@
     {
       "slug": "crying-my-heart-out-over-you",
       "title": "Crying My Heart Out Over You",
-      "key": null,
-      "sections": [],
+      "key": "G",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -7516,7 +8751,7 @@
       "original_page": 60,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -9256,12 +10491,6 @@
         {
           "type": "verse",
           "lines": [
-            "(B Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]Dim lights, thick smoke, and loud, loud [C]music",
             "Is the [G]only kind of life you'll ever under-[D]stand",
             "Dim [G]lights, thick smoke and loud, loud [C]music",
@@ -9830,33 +11059,6 @@
             "My [A]momma she always [D]told me son",
             "[G]Never let your deal go [C]down"
           ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Don't let your deal go down",
-            "Don't let your deal go down",
-            "Don't let your deal go down",
-            "Till your last gold dollar is gone"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Oh the last time I seen that gal of mine",
-            "She was standing in the door",
-            "She [A]said honey I'll be a long time gone",
-            "You'll never see your gal no more"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Well I'm going down the railroad track",
-            "Gonna take my rocking chair",
-            "If these doggone blues don't leave my mind",
-            "I'm gonna rock away from here"
-          ]
         }
       ],
       "original_page": 73,
@@ -9965,12 +11167,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(D)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -11237,12 +12433,6 @@
         {
           "type": "verse",
           "lines": [
-            "(A-C2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "A [G]miner was leaving his [C]home for his [G]work",
             "When he heard his [A7]little child [D7]scream",
             "He [G]ran to the side [C]of the little [G]girl's bed",
@@ -11495,8 +12685,7 @@
           "lines": [
             "Today the tempest rolls high",
             "And clouds overshadow the sky",
-            "Sure death is hovering nigh",
-            "Drifting too far from the shore"
+            "Sure death is hovering nigh"
           ]
         }
       ],
@@ -11946,12 +13135,6 @@
         {
           "type": "verse",
           "lines": [
-            "(A Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]I was born in East Virginia",
             "To North [C]Carolina I did [G]go",
             "There I [C]spied a fair young [G]lady",
@@ -12370,12 +13553,6 @@
         {
           "type": "verse",
           "lines": [
-            "(D Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "When I [C]come to the end of the long, long road",
             "The [F]shadows will flee a-[C]way",
             "And I'll stand in the glorious [Em]light of [F]God",
@@ -12534,12 +13711,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(A Capo-2)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -13945,22 +15116,277 @@
     {
       "slug": "forever-and-ever-amen",
       "title": "Forever and Ever, Amen",
-      "key": null,
-      "sections": [],
-      "lyrics": [
+      "key": "C",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "1 4 1 1 1 half 1 4",
-            "st",
-            "1 1 2 half 1",
-            "st",
-            "4 1 1",
-            "4 4 1 1         4 4 1         1   4 4 2          2",
-            "4 4 1 1         4 4 1         1   4 4 1          1",
-            "2 2 5 5         2 2 5         5   2 5 1          1"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
-        },
+        }
+      ],
+      "lyrics": [
         {
           "type": "verse",
           "lines": [
@@ -14004,7 +15430,7 @@
       "original_page": 97,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
       ]
     },
     {
@@ -14597,12 +16023,6 @@
         {
           "type": "verse",
           "lines": [
-            "(D Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[Am]A chicken Farmer went out one [C]dark and windy day",
             "And [Am]by the coop he rested as he [C]went along his way",
             "When [Am]all at once a rotten egg hit him in the eye",
@@ -14646,8 +16066,269 @@
     {
       "slug": "ghost-riders-in-the-sky",
       "title": "Ghost Riders In The Sky",
-      "key": null,
-      "sections": [],
+      "key": "A",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -14716,7 +16397,7 @@
       "original_page": 101,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -16530,138 +18211,14 @@
     {
       "slug": "grandfather-s-clock",
       "title": "Grandfather's Clock",
-      "key": "C",
+      "key": "G",
       "sections": [
         {
           "name": "A Part",
           "rows": [
             [
               {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
                 "root": "G",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "G",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              }
-            ],
-            [
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "G",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "G",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              }
-            ],
-            [
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
                 "quality": "major",
                 "cells": 1
               },
@@ -16676,6 +18233,35 @@
                 "cells": 1
               },
               {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
                 "root": "G",
                 "quality": "major",
                 "cells": 1
@@ -16684,9 +18270,21 @@
                 "root": "C",
                 "quality": "major",
                 "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
               },
               {
-                "root": "F",
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
                 "quality": "major",
                 "cells": 1
               }
@@ -16698,42 +18296,26 @@
                 "cells": 1
               },
               {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
                 "root": "G",
                 "quality": "major",
                 "cells": 1
-              },
+              }
+            ],
+            [
               {
-                "root": "C",
+                "root": "A",
                 "quality": "major",
                 "cells": 1
               },
               {
-                "root": "C",
+                "root": "D",
                 "quality": "major",
                 "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
+              }
+            ],
+            [
               {
                 "root": "G",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
                 "quality": "major",
                 "cells": 1
               },
@@ -16742,11 +18324,80 @@
                 "quality": "major",
                 "cells": 1
               }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
             ]
           ]
         }
       ],
       "lyrics": [
+        {
+          "type": "verse",
+          "lines": [
+            "1 5 1 4 1 5 1             1      1    1    _   _",
+            "1 5 1 4 1 5 1             1      1    1    _   _",
+            "1 1 4 1 1 2 5             5      1!   5!   1   4",
+            "1! 5! 1 4 1 5 1           1      1    5    1   1"
+          ]
+        },
         {
           "type": "verse",
           "lines": [
@@ -16782,7 +18433,7 @@
       "original_page": 112,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -17891,43 +19542,6 @@
           "rows": [
             [
               {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "B",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              }
-            ],
-            [
-              {
                 "root": "F",
                 "quality": "major",
                 "cells": 1
@@ -18034,8 +19648,206 @@
     {
       "slug": "he-took-your-place",
       "title": "He Took Your Place",
-      "key": null,
-      "sections": [],
+      "key": "D",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -18077,7 +19889,7 @@
       "original_page": 119,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -18214,24 +20026,6 @@
             "Oh, but I didn't see no [C]tears",
             "All dressed up to go a-[D]way,",
             "First time I'd seen him smile in [G]years [C] [G]"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "He stopped loving her today",
-            "They placed a wreath upon his [C]door",
-            "And soon they'll carry him a-[D]way",
-            "He stopped loving her to-[G]day"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "You know, she came to see him one last time",
-            "Aww, and we all wondered if she [C]would",
-            "And it kept runnin' through my [D]mind",
-            "\"This time he's over her for [G]good\""
           ]
         }
       ],
@@ -18548,12 +20342,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(E Capo-2)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -19824,12 +21612,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(Bb Capo-3)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -21875,8 +23657,156 @@
     {
       "slug": "i-dreamed-of-an-old-love-affair",
       "title": "I Dreamed of an Old Love Affair",
-      "key": null,
-      "sections": [],
+      "key": "D",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -21918,7 +23848,7 @@
       "original_page": 140,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -22555,23 +24485,6 @@
             ],
             [
               {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "F",
-                "quality": "major",
-                "cells": 1
-              }
-            ],
-            [
-              {
                 "root": "G",
                 "quality": "major",
                 "cells": 1
@@ -22603,31 +24516,6 @@
             "You loved me like you used to [G]do",
             "Mornin' come and [B]I woke up and [C]found",
             "[D]I still carry you [G]around"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I still carry you around",
-            "Everywhere I travel now",
-            "No matter how I try to put you down",
-            "I still carry you around"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I still just can't believe you're gone",
-            "Your memory haunts me from now on",
-            "I walk the streets of this old lonely town",
-            "I still carry you around"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "You're with me everywhere I go",
-            "In my heart and in my soul"
           ]
         }
       ],
@@ -23349,8 +25237,7 @@
           "lines": [
             "The rain is cold and slowly falling",
             "Upon my window pane tonight",
-            "And though your love was even colder",
-            "I wonder where you are tonight"
+            "And though your love was even colder"
           ]
         }
       ],
@@ -24971,33 +26858,6 @@
             "I [G]told her that I would not linger",
             "That I'd be [D]back by and [G]by"
           ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I'm going back to old Kentucky",
-            "There to see my Linda Lou",
-            "I'm going back to old Kentucky",
-            "Where the skies are always blue"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Linda Lou she is a beauty",
-            "Those pretty brown eyes I loved so well",
-            "I'm going back to old Kentucky",
-            "Never more to say farewell"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Linda Lou you know I love you",
-            "I long for you both night and day",
-            "When the roses bloom in old Kentucky",
-            "I'll be coming back to stay"
-          ]
         }
       ],
       "original_page": 157,
@@ -25708,15 +27568,6 @@
             "The twelve disciples are my [C]road signs",
             "And [D]Jesus will take me safely [G]through"
           ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I'm using my Bible for a roadmap",
-            "The children of Israel used it too",
-            "They crossed the Red Sea of destruction",
-            "For God was there to see them through"
-          ]
         }
       ],
       "original_page": 161,
@@ -25925,12 +27776,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(C)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -26892,12 +28737,6 @@
         {
           "type": "verse",
           "lines": [
-            "(Capo 2 - A)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]I was standing by the [F]bed--[G]side",
             "Where my [D]feeble mother [G]lay",
             "When she called me close be--[F]side [G]her",
@@ -27678,33 +29517,6 @@
             "I'll be satisfied as [C]long",
             "As I [G]walk let me walk [D]close to [G]Thee"
           ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Just a closer walk with Thee",
-            "Grant it Jesus is my plea",
-            "Daily walking close to Thee",
-            "Let it be dear Lord let it be"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "When my feeble life is o'er",
-            "Time for me shall be no more",
-            "Guide me gently safely o'er",
-            "To Thy kingdom shore to Thy shore"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "When life's sun sinks in the west",
-            "Lord may I have done my best",
-            "May I find sweet peace and rest",
-            "In that happy home of the blessed"
-          ]
         }
       ],
       "original_page": 174,
@@ -28027,12 +29839,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(A Capo-2)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -28957,12 +30763,6 @@
         {
           "type": "verse",
           "lines": [
-            "(A Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]Trailer for [C]sale or rent [D]Rooms to let [G]fifty cents",
             "No phone no [C]pool no pets I [D]ain't got no cigarettes ah but",
             "[G]Two hours of [C]pushing broom, buys an [D]8 by 12 [G]4-bit room",
@@ -29597,12 +31397,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(B Capo-4)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -30847,27 +32641,99 @@
                 "quality": "major",
                 "cells": 1
               }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
             ]
           ]
         }
       ],
-      "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(D)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "D   D   D   D",
-            "D   A   D   D",
-            "D   D   D   D",
-            "D   A   D   D"
-          ]
-        }
-      ],
+      "lyrics": [],
       "original_page": 193,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
@@ -30877,8 +32743,307 @@
     {
       "slug": "long-black-train",
       "title": "Long Black Train",
-      "key": null,
-      "sections": [],
+      "key": "G",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
@@ -30943,7 +33108,7 @@
       "original_page": 194,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "inline-derived-chords: no separate chord chart in the source; chord rows synthesised from [Chord] tags inline in the lyrics. Measure boundaries are approximate (one row per lyric line)"
       ]
     },
     {
@@ -31307,18 +33472,103 @@
     {
       "slug": "looking-out-my-backdoor",
       "title": "Looking Out My Backdoor",
-      "key": null,
-      "sections": [],
-      "lyrics": [
+      "key": "G",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "G G EmEm",
-            "C G D D7",
-            "G G EmEm",
-            "C G D7 G"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "7",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
-        },
+        }
+      ],
+      "lyrics": [
         {
           "type": "verse",
           "lines": [
@@ -31413,9 +33663,7 @@
       ],
       "original_page": 197,
       "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
-      ]
+      "_warnings": []
     },
     {
       "slug": "love-of-the-mountains",
@@ -31795,12 +34043,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(G)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -33319,12 +35561,6 @@
         {
           "type": "verse",
           "lines": [
-            "(C)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]Eighteen wheeler dropped me off at that [C]city limit sign",
             "[G]Sunday morning sunlight [C]hurt my eyes",
             "[F]It's a long way [C]from where I been back to [G]my home town",
@@ -34706,19 +36942,90 @@
                 "quality": "major",
                 "cells": 1
               }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
             ]
           ]
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "\u2026 repeat above 3 more times 1   1   1 1",
-            "1 4 1/1 7/7b 6 6                4   4 4 4",
-            "2 5 4/5 1                5 5    5   5"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -34963,12 +37270,6 @@
         {
           "type": "verse",
           "lines": [
-            "(A Capo-2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]Everybody's going out and [D]having fun",
             "I'm just a fool for staying home and [G]having none",
             "I can't get over how she set me [C]free",
@@ -34980,26 +37281,7 @@
           "lines": [
             "A bad mistake I'm making by just hanging round",
             "I know that I should have some fun and paint the town",
-            "A lovesick fool is blind and just can't see",
-            "Oh lonesome me"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I'll [D]bet she's not like me she's [A]out and fancy free",
-            "She's flirtin' with the boys with all her [D]charms",
-            "But I still love her so and [A]brother don't you know",
-            "I'd welcome her right back here in my [D]arms"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Well there must be some way I can lose these lonesome blues",
-            "Forget about the past and find somebody new",
-            "I've thought of everything from A to Z",
-            "Oh lonesome me"
+            "A lovesick fool is blind and just can't see"
           ]
         }
       ],
@@ -35708,12 +37990,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(D)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -39471,12 +41747,6 @@
         {
           "type": "verse",
           "lines": [
-            "(A - C2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "In the [G]road was a bell in the bell was a sound",
             "Of [C]days that have come and [G]gone",
             "And the road ran to a little town on the hillside",
@@ -40074,17 +42344,53 @@
                 "quality": "major",
                 "cells": 1
               }
+            ],
+            [
+              {
+                "root": "A",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "Bb",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
             ]
           ]
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "6m 5 1 1            1 7b 1      1 x2"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -41348,44 +43654,7 @@
           "lines": [
             "Your my gal and I'm your feller",
             "Dress up in your frock of yeller",
-            "I'll look swell but you'll look sweller",
-            "Setting the woods on fire"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I don't care who thinks we're silly",
-            "You be Daffy and I'll be Dilly",
-            "We'll order up to bowls of chili",
-            "Setting the woods on fire"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "I'll gas up my hot rod stocker",
-            "We'll get hotter than a poker",
-            "You'll be broke but I'll be broker",
-            "Tonight we're setting the woods on fire"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "We'll sit close to one another",
-            "Up the one street and down the other",
-            "We'll have a time O brother",
-            "Setting the woods on fire"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "You clap hands and I'll start bowing",
-            "We'll do all the laws allowin'",
-            "Tomorrow I'll be right back plowing",
-            "Setting the woods on fire"
+            "I'll look swell but you'll look sweller"
           ]
         }
       ],
@@ -41971,35 +44240,7 @@
           "lines": [
             "Just because I haunt the same old places",
             "Where the memory of her lingers everywhere,",
-            "Just because I'm not the happy guy I used to be,",
-            "She thinks I still care"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "But if she's [C]happy thinkin' I still [G]need her,",
-            "Then let that silly notion bring her [D]cheer",
-            "Oh [C]How could she ever be so [G]foolish,",
-            "Oh [A]where would she get such an [D]idea?"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Just because I asked a friend about her,",
-            "Just because I spoke her name somewhere,",
-            "Just because I saw her then went all to pieces,",
-            "She thinks I still care"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Just because I haunt the same old places",
-            "Where the memory of her lingers everywhere,",
-            "Just because I saw her then went all to pieces,",
-            "She thinks I still care x2"
+            "Just because I'm not the happy guy I used to be,"
           ]
         }
       ],
@@ -42438,58 +44679,239 @@
     {
       "slug": "shuckin-the-corn",
       "title": "Shuckin\u2019 The Corn",
-      "key": null,
-      "sections": [],
-      "lyrics": [
+      "key": "C",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "Intro",
-            "-    - - -",
-            "4 4 4 4"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "C C C C"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Remainder \u2013 repeat 3X",
-            "1 5 5 1",
-            "1 1 1 1",
-            "1 4 4 1"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "G D D G",
-            "G G G G",
-            "G C C G"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Ending",
-            "1 5 5       5"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "G D D D"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
         }
       ],
+      "lyrics": [],
       "original_page": 259,
       "_source": "folksociety-bluegrass-songbook-2018",
       "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
+        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
       ]
     },
     {
@@ -43425,12 +45847,6 @@
         {
           "type": "verse",
           "lines": [
-            "(D)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "I [D]just found out today - the little game you play",
             "I've been sleeping all my life a-[A]way",
             "You've been [D]stepping so they say, between midnight and day",
@@ -43697,52 +46113,270 @@
     {
       "slug": "slimy-river-bottom-doug-s-tune",
       "title": "Slimy River Bottom (Doug's Tune)",
-      "key": null,
-      "sections": [],
-      "lyrics": [
+      "key": "E",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "Repeat twice",
-            "E E A A",
-            "E E - -",
-            "E E A A",
-            "D A E A"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Bass Break",
-            "B/G# F#/E      A/B           C/C#",
-            "B/G# F#/E      ----   ----",
-            "B/G# F#/E      A/B           C/C#",
-            "D     A        E      A"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Repeat twice",
-            "E E A A",
-            "E E - -",
-            "E E A A",
-            "D A E A"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Tag",
-            "D A E A"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "B",
+                "quality": "major",
+                "cells": 1,
+                "bass": "G#"
+              },
+              {
+                "root": "F#",
+                "quality": "major",
+                "cells": 1,
+                "bass": "E"
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1,
+                "bass": "B"
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1,
+                "bass": "C#"
+              }
+            ],
+            [
+              {
+                "root": "B",
+                "quality": "major",
+                "cells": 1,
+                "bass": "G#"
+              },
+              {
+                "root": "F#",
+                "quality": "major",
+                "cells": 1,
+                "bass": "E"
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1,
+                "bass": "B"
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1,
+                "bass": "C#"
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
         }
       ],
+      "lyrics": [],
       "original_page": 266,
       "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
-      ]
+      "_warnings": []
     },
     {
       "slug": "so-happy-i-ll-be",
@@ -43878,11 +46512,7 @@
         {
           "type": "verse",
           "lines": [
-            "Oh just think of the day my friends",
-            "when the saints go marching in",
-            "Then I'm goin' home to heaven above",
-            "Oh so happy I'll be my blessed Saviour I shall see",
-            "so happy I'll be forever more"
+            "Oh just think of the day my friends"
           ]
         }
       ],
@@ -44828,43 +47458,17 @@
                 "quality": "minor",
                 "cells": 1
               }
-            ],
-            [
-              {
-                "root": "D",
-                "quality": "minor",
-                "cells": 1
-              },
-              {
-                "root": "D",
-                "quality": "minor",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "C",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "G",
-                "quality": "major",
-                "cells": 1
-              },
-              {
-                "root": "G",
-                "quality": "major",
-                "cells": 1
-              }
             ]
           ]
         }
       ],
       "lyrics": [
+        {
+          "type": "verse",
+          "lines": [
+            "2m 2m 1 1      2m/3m 4/4#           5        5"
+          ]
+        },
         {
           "type": "verse",
           "lines": [
@@ -45468,12 +48072,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(D)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -46256,12 +48854,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(A Capo-2)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -47657,22 +50249,144 @@
     {
       "slug": "thing-called-love",
       "title": "Thing Called Love",
-      "key": null,
-      "sections": [],
+      "key": "D",
+      "sections": [
+        {
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "B",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F#",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "B",
+                "quality": "minor",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "E",
+                "quality": "minor",
+                "cells": 1
+              },
+              {
+                "root": "A",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
+          ]
+        }
+      ],
       "lyrics": [
         {
           "type": "verse",
           "lines": [
-            "D D D D         D G F # m Bm",
-            "Em A D D        G 2m A A",
-            "D D D D         D G F # m Bm",
-            "Em A D D        Em A D D"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "(Capo-2)",
             "Six foot [C]six, he stood on the ground",
             "he weighed two hundred & forty-five pounds",
             "But I saw that [Dm]giant of a man brought [G]down",
@@ -47712,9 +50426,7 @@
       ],
       "original_page": 287,
       "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "no-chord-rows: extraction found no chord rows for this song; review the source page and fill in manually"
-      ]
+      "_warnings": []
     },
     {
       "slug": "think-of-what-you-ve-done",
@@ -47816,12 +50528,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(C)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -48922,12 +51628,6 @@
         {
           "type": "verse",
           "lines": [
-            "(B Capo-4)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "[G]We always wanted a [D]big two story [G]house",
             "Back when we lived in that [D]little two room [G]shack",
             "We wanted fame & fortune & we'd live life the way the rich folks [C]do",
@@ -49083,17 +51783,194 @@
             "They hung up his fiddle, they hung up his bow.",
             "They knew it was time for him to go."
           ]
-        },
+        }
+      ],
+      "original_page": 296,
+      "_source": "folksociety-bluegrass-songbook-2018",
+      "_warnings": [
+        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
+      ]
+    },
+    {
+      "slug": "uncloudy-day",
+      "title": "Uncloudy Day",
+      "key": "C",
+      "sections": [
         {
-          "type": "verse",
-          "lines": [
-            "Uncloudy Day",
-            "1 1 4 1              1     1   1       1",
-            "1 1 5 5              1     1   2       5",
-            "1 1 4 1              1     1   4       1",
-            "1 1 5 1              1     1   5       1"
+          "name": "A Part",
+          "rows": [
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "D",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "F",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ],
+            [
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "G",
+                "quality": "major",
+                "cells": 1
+              },
+              {
+                "root": "C",
+                "quality": "major",
+                "cells": 1
+              }
+            ]
           ]
-        },
+        }
+      ],
+      "lyrics": [
         {
           "type": "verse",
           "lines": [
@@ -50136,12 +53013,6 @@
         {
           "type": "verse",
           "lines": [
-            "(Am \u2013 C2)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "Intro: 1st line twice",
             "I am a [Cm]poor wayfaring stranger",
             "Traveling [Fm]through \u2013 this world of [Cm]woe.",
@@ -50451,12 +53322,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(F 3/4 Capo-3)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -50846,19 +53711,7 @@
         {
           "type": "verse",
           "lines": [
-            "Oh when the saints go marching in",
-            "When the saints go marching in",
-            "I\u2019m gonna to sing as loud as thunder",
             "Oh when the saints go marching in"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Oh when the saints go marching in",
-            "When the saints go marching in",
-            "I still want to be in that number",
-            "When the sun refuse to shine"
           ]
         }
       ],
@@ -50989,10 +53842,7 @@
         {
           "type": "verse",
           "lines": [
-            "A garden's blooming there for me",
-            "Where the soul of man never dies",
-            "And I shall spend eternity",
-            "Where the soul of man never dies"
+            "A garden's blooming there for me"
           ]
         }
       ],
@@ -51329,12 +54179,6 @@
         {
           "type": "verse",
           "lines": [
-            "(F 3/4 Capo-3)"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
             "In the [D]deep rolling hills of old [G]Virginia",
             "There\u2019s a [D]place that I love so [A]well",
             "Where I [D]spent many days of my [G]childhood",
@@ -51453,12 +54297,6 @@
         }
       ],
       "lyrics": [
-        {
-          "type": "verse",
-          "lines": [
-            "(G)"
-          ]
-        },
         {
           "type": "verse",
           "lines": [
@@ -51927,17 +54765,7 @@
           "lines": [
             "Each night, there's tears upon my pillow",
             "And they're all because of you I know",
-            "Darling, I can't go on this way",
-            "Why don't you tell me so?"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Now, there'll come a time little darlin'",
-            "When you will want me you know",
-            "But darlin', it will then be too late",
-            "For you to tell me so"
+            "Darling, I can't go on this way"
           ]
         }
       ],
@@ -52248,51 +55076,6 @@
             "whose dear [C]forms you often [G]miss.",
             "When you close your earthly [Em]story,",
             "Will you [G]join them [D]in their [G]bliss?"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "Will the circle be unbroken",
-            "by and by, Lord by and by?",
-            "There\u2019s a better home awaiting",
-            "In the sky Lord, in the sky"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "In the joyous days of childhood,",
-            "oft they told of wondrous love.",
-            "Pointed to the dying Savior;",
-            "now they dwell with Him above."
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "You remember songs of heaven",
-            "which you sang with childish voice.",
-            "Do you love the hymns they taught you,",
-            "or are songs of earth your choice?"
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "You can picture happy gath'rings",
-            "round the fireside long ago.",
-            "And you think of tearful partings",
-            "when they left you here below."
-          ]
-        },
-        {
-          "type": "verse",
-          "lines": [
-            "One by one, their seats were emptied.",
-            "One by one they went away.",
-            "Now the family is parted.",
-            "It will be complete one day."
           ]
         }
       ],
