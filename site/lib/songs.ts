@@ -97,3 +97,14 @@ const manifest = chartManifest as Record<string, string>;
 export function chartFilenameForSlug(slug: string): string | null {
   return manifest[slug] ?? null;
 }
+
+// Inline-chord markers in the FolkSociety-imported lyrics look like
+// "[D]Now there's [D7]healing in the [G]blood". Strip them for clean
+// reading; the chord chart at the top of the page is the source of truth.
+// Collapses doubled whitespace that the bracket removal can leave behind,
+// but preserves song-internal hyphenation (e.g. "willing-ly").
+const INLINE_CHORD_RE = /\[[A-G][#b]?(?:maj7|min7|m7|m|7|dim|aug|sus2|sus4)?(?:\/[A-G][#b]?)?\]/g;
+
+export function stripInlineChords(line: string): string {
+  return line.replace(INLINE_CHORD_RE, "").replace(/[ \t]{2,}/g, " ").trim();
+}
