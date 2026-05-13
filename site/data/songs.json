@@ -3,7 +3,7 @@
     {
       "title": "(A) Beautiful Life",
       "slug": "a-beautiful-life",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -53,10 +53,7 @@
       ],
       "chord_sections": [],
       "original_page": 32,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "A Hundred Years From Now",
@@ -101,7 +98,7 @@
     {
       "title": "Ain't No Grave",
       "slug": "ain-t-no-grave",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -149,15 +146,12 @@
       ],
       "chord_sections": [],
       "original_page": 16,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ain\u2019t Nobody Gonna Miss Me",
       "slug": "ain-t-nobody-gonna-miss-me",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -255,15 +249,12 @@
       ],
       "chord_sections": [],
       "original_page": 17,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Amazing Grace",
       "slug": "amazing-grace",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -304,15 +295,12 @@
       ],
       "chord_sections": [],
       "original_page": 19,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Amazing Grace (House Rising Sun)",
       "slug": "amazing-grace-house-rising-sun",
-      "key": "C",
+      "key": "A",
       "lyrics": [
         {
           "type": "verse",
@@ -353,15 +341,12 @@
       ],
       "chord_sections": [],
       "original_page": 20,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Amelia Earhart\u2019s Last Flight",
       "slug": "amelia-earhart-s-last-flight",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -411,15 +396,12 @@
       ],
       "chord_sections": [],
       "original_page": 21,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Angel Band",
       "slug": "angel-band",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -469,10 +451,7 @@
       ],
       "chord_sections": [],
       "original_page": 22,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Angeline the Baker",
@@ -581,10 +560,7 @@
       ],
       "chord_sections": [],
       "original_page": 23,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Are You Missing Me",
@@ -634,7 +610,7 @@
     {
       "title": "Are You Washed in the Blood",
       "slug": "are-you-washed-in-the-blood",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -675,10 +651,7 @@
       ],
       "chord_sections": [],
       "original_page": 24,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ashes of Love",
@@ -715,10 +688,7 @@
       ],
       "chord_sections": [],
       "original_page": 25,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ashokan Farewell",
@@ -800,7 +770,7 @@
     {
       "title": "Back To The Cross",
       "slug": "back-to-the-cross",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -841,10 +811,7 @@
       ],
       "chord_sections": [],
       "original_page": 28,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Bad Moon Arising",
@@ -913,7 +880,7 @@
     {
       "title": "Ballad Of Jed Clampett",
       "slug": "ballad-of-jed-clampett",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -949,15 +916,12 @@
       ],
       "chord_sections": [],
       "original_page": 30,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ballad Of Jesse James",
       "slug": "ballad-of-jesse-james",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1007,10 +971,7 @@
       ],
       "chord_sections": [],
       "original_page": 31,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Big Eyed Rabbit",
@@ -1050,7 +1011,7 @@
     {
       "title": "Big Spike Hammer",
       "slug": "big-spike-hammer",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1097,15 +1058,12 @@
       ],
       "chord_sections": [],
       "original_page": 33,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Blue Collar Dreams",
       "slug": "blue-collar-dreams",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1144,15 +1102,12 @@
       ],
       "chord_sections": [],
       "original_page": 34,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Blue Eyes Crying In The Rain",
       "slug": "blue-eyes-crying-in-the-rain",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1183,10 +1138,7 @@
       ],
       "chord_sections": [],
       "original_page": 35,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Blue Moon of Kentucky",
@@ -1276,7 +1228,7 @@
     {
       "title": "Blue Railroad Train",
       "slug": "blue-railroad-train",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1316,10 +1268,7 @@
       ],
       "chord_sections": [],
       "original_page": 38,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Blue Ridge Cabin Home",
@@ -1374,7 +1323,7 @@
     {
       "title": "Blue Ridge Mountain Blues",
       "slug": "blue-ridge-mountain-blues",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1433,10 +1382,7 @@
       ],
       "chord_sections": [],
       "original_page": 40,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Blues Stay Away From Me",
@@ -1486,7 +1432,7 @@
     {
       "title": "Borrowed Love",
       "slug": "borrowed-love",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1536,10 +1482,7 @@
       ],
       "chord_sections": [],
       "original_page": 41,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Bouquet In Heaven",
@@ -1576,10 +1519,7 @@
       ],
       "chord_sections": [],
       "original_page": 43,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Bringing in the Georgia Mail",
@@ -1677,7 +1617,7 @@
     {
       "title": "Busy, Busy Man",
       "slug": "busy-busy-man",
-      "key": "C",
+      "key": "E",
       "lyrics": [
         {
           "type": "verse",
@@ -1733,15 +1673,12 @@
       ],
       "chord_sections": [],
       "original_page": 46,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "By The Mark",
       "slug": "by-the-mark",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1782,10 +1719,7 @@
       ],
       "chord_sections": [],
       "original_page": 47,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Cabin in Caroline",
@@ -1842,7 +1776,7 @@
     {
       "title": "Cabin In Gloryland",
       "slug": "cabin-in-gloryland",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1895,15 +1829,12 @@
       ],
       "chord_sections": [],
       "original_page": 48,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Can You Run",
       "slug": "can-you-run",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1950,15 +1881,12 @@
       ],
       "chord_sections": [],
       "original_page": 49,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Can't You Hear Me Calling",
       "slug": "can-t-you-hear-me-calling",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -1999,10 +1927,7 @@
       ],
       "chord_sections": [],
       "original_page": 50,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Carolina In The Pines",
@@ -2074,7 +1999,7 @@
     {
       "title": "Catfish John",
       "slug": "catfish-john",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2115,10 +2040,7 @@
       ],
       "chord_sections": [],
       "original_page": 52,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Christmas Cookies",
@@ -2213,7 +2135,7 @@
     {
       "title": "Columbus Stockade Blues",
       "slug": "columbus-stockade-blues",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2254,15 +2176,12 @@
       ],
       "chord_sections": [],
       "original_page": 55,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Cora Is Gone",
       "slug": "cora-is-gone",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2303,15 +2222,12 @@
       ],
       "chord_sections": [],
       "original_page": 57,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Country Roads",
       "slug": "country-roads",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2358,15 +2274,12 @@
       ],
       "chord_sections": [],
       "original_page": 56,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Cripple Creek",
       "slug": "cripple-creek",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2416,15 +2329,12 @@
       ],
       "chord_sections": [],
       "original_page": 58,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Crying Holy",
       "slug": "crying-holy",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2456,10 +2366,7 @@
       ],
       "chord_sections": [],
       "original_page": 59,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Crying My Heart Out Over You",
@@ -2513,7 +2420,7 @@
     {
       "title": "Cumberland Gap",
       "slug": "cumberland-gap",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2561,15 +2468,12 @@
       ],
       "chord_sections": [],
       "original_page": 62,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Cumberland River",
       "slug": "cumberland-river",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2610,10 +2514,7 @@
       ],
       "chord_sections": [],
       "original_page": 61,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Daniel Prayed",
@@ -2659,15 +2560,12 @@
       ],
       "chord_sections": [],
       "original_page": 63,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Dark As A Dungeon",
       "slug": "dark-as-a-dungeon",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2717,10 +2615,7 @@
       ],
       "chord_sections": [],
       "original_page": 65,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Dark Hollow",
@@ -2771,7 +2666,7 @@
     {
       "title": "Darker The Night",
       "slug": "darker-the-night",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2818,10 +2713,7 @@
       ],
       "chord_sections": [],
       "original_page": 66,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Dear Old Dixie",
@@ -2838,7 +2730,7 @@
     {
       "title": "Diesel On My Tail",
       "slug": "diesel-on-my-tail",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2894,15 +2786,12 @@
       ],
       "chord_sections": [],
       "original_page": 68,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Dim Lights, Thick Smoke",
       "slug": "dim-lights-thick-smoke",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2934,15 +2823,12 @@
       ],
       "chord_sections": [],
       "original_page": 69,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Do Lord",
       "slug": "do-lord",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -2983,15 +2869,12 @@
       ],
       "chord_sections": [],
       "original_page": 70,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Doin\u2019 My Time",
       "slug": "doin-my-time",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3032,15 +2915,12 @@
       ],
       "chord_sections": [],
       "original_page": 71,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Don't Get Above Your Raising",
       "slug": "don-t-get-above-your-raising",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3081,15 +2961,12 @@
       ],
       "chord_sections": [],
       "original_page": 72,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Don't Let Your Deal Go Down",
       "slug": "don-t-let-your-deal-go-down",
-      "key": "C",
+      "key": "A",
       "lyrics": [
         {
           "type": "verse",
@@ -3103,15 +2980,12 @@
       ],
       "chord_sections": [],
       "original_page": 73,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Don\u2019t Let Your Sweet Love Die",
       "slug": "don-t-let-your-sweet-love-die",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -3152,15 +3026,12 @@
       ],
       "chord_sections": [],
       "original_page": 74,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Don't This Road Look Rough",
       "slug": "don-t-this-road-look-rough",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3201,15 +3072,12 @@
       ],
       "chord_sections": [],
       "original_page": 75,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Dooley",
       "slug": "dooley",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3248,15 +3116,12 @@
       ],
       "chord_sections": [],
       "original_page": 76,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Down In The Gravel Yard",
       "slug": "down-in-the-gravel-yard",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3288,10 +3153,7 @@
       ],
       "chord_sections": [],
       "original_page": 77,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Down in the Willow Garden",
@@ -3341,7 +3203,7 @@
     {
       "title": "Down The Road",
       "slug": "down-the-road",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3391,15 +3253,12 @@
       ],
       "chord_sections": [],
       "original_page": 78,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Down Yonder",
       "slug": "down-yonder",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -3446,15 +3305,12 @@
       ],
       "chord_sections": [],
       "original_page": 79,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Dream Of a Miner's Child",
       "slug": "dream-of-a-miner-s-child",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3504,15 +3360,12 @@
       ],
       "chord_sections": [],
       "original_page": 81,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Drifting Too Far From The Shore",
       "slug": "drifting-too-far-from-the-shore",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3543,15 +3396,12 @@
       ],
       "chord_sections": [],
       "original_page": 82,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Drivin' Nails In My Coffin",
       "slug": "drivin-nails-in-my-coffin",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3592,10 +3442,7 @@
       ],
       "chord_sections": [],
       "original_page": 83,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Earl\u2019s Breakdown",
@@ -3612,7 +3459,7 @@
     {
       "title": "East Virginia Blues",
       "slug": "east-virginia-blues",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3653,15 +3500,12 @@
       ],
       "chord_sections": [],
       "original_page": 85,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Eight More Miles to Louisville",
       "slug": "eight-more-miles-to-louisville",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3704,10 +3548,7 @@
       ],
       "chord_sections": [],
       "original_page": 86,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "End of the Road",
@@ -3771,15 +3612,12 @@
       ],
       "chord_sections": [],
       "original_page": 87,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Faded Love",
       "slug": "faded-love",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3811,10 +3649,7 @@
       ],
       "chord_sections": [],
       "original_page": 88,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Farther Along",
@@ -3929,7 +3764,7 @@
     {
       "title": "Fireball Mail",
       "slug": "fireball-mail",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -3970,15 +3805,12 @@
       ],
       "chord_sections": [],
       "original_page": 90,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Five Pounds of Possum",
       "slug": "five-pounds-of-possum",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4010,10 +3842,7 @@
       ],
       "chord_sections": [],
       "original_page": 91,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Foggy Mountain Breakdown",
@@ -4042,7 +3871,7 @@
     {
       "title": "Foggy Mountain Top",
       "slug": "foggy-mountain-top",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4074,15 +3903,12 @@
       ],
       "chord_sections": [],
       "original_page": 94,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Folsom Prison Blues",
       "slug": "folsom-prison-blues",
-      "key": "C",
+      "key": "E",
       "lyrics": [
         {
           "type": "verse",
@@ -4123,10 +3949,7 @@
       ],
       "chord_sections": [],
       "original_page": 95,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Footprints in the Snow",
@@ -4172,10 +3995,7 @@
       ],
       "chord_sections": [],
       "original_page": 96,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Forever and Ever, Amen",
@@ -4224,10 +4044,7 @@
       ],
       "chord_sections": [],
       "original_page": 97,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Fox on the Run",
@@ -4321,15 +4138,12 @@
       ],
       "chord_sections": [],
       "original_page": 98,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Georgia On My Mind",
       "slug": "georgia-on-my-mind",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4385,15 +4199,12 @@
       ],
       "chord_sections": [],
       "original_page": 99,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ghost Chickens In The Sky",
       "slug": "ghost-chickens-in-the-sky",
-      "key": "C",
+      "key": "A",
       "lyrics": [
         {
           "type": "verse",
@@ -4434,10 +4245,7 @@
       ],
       "chord_sections": [],
       "original_page": 100,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ghost Riders In The Sky",
@@ -4518,7 +4326,7 @@
     {
       "title": "Glendale Train",
       "slug": "glendale-train",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4562,15 +4370,12 @@
       ],
       "chord_sections": [],
       "original_page": 102,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "God Loves His Children",
       "slug": "god-loves-his-children",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4611,10 +4416,7 @@
       ],
       "chord_sections": [],
       "original_page": 103,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Gold Rush",
@@ -4672,15 +4474,12 @@
       ],
       "chord_sections": [],
       "original_page": 104,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Golden Ring",
       "slug": "golden-ring",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4739,15 +4538,12 @@
       ],
       "chord_sections": [],
       "original_page": 106,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Gone Gone Gone",
       "slug": "gone-gone-gone",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4788,15 +4584,12 @@
       ],
       "chord_sections": [],
       "original_page": 107,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Gone Home",
       "slug": "gone-home",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4863,15 +4656,12 @@
       ],
       "chord_sections": [],
       "original_page": 108,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Good Corn Liquor",
       "slug": "good-corn-liquor",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4903,15 +4693,12 @@
       ],
       "chord_sections": [],
       "original_page": 109,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Gospel Ship",
       "slug": "gospel-ship",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -4952,15 +4739,12 @@
       ],
       "chord_sections": [],
       "original_page": 110,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Gotta Travel On",
       "slug": "gotta-travel-on",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5001,10 +4785,7 @@
       ],
       "chord_sections": [],
       "original_page": 111,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Grandfather's Clock",
@@ -5062,7 +4843,7 @@
     {
       "title": "Grandpa was a Carpenter",
       "slug": "grandpa-was-a-carpenter",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5104,15 +4885,12 @@
       ],
       "chord_sections": [],
       "original_page": 113,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Great Speckled Bird",
       "slug": "great-speckled-bird",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5162,15 +4940,12 @@
       ],
       "chord_sections": [],
       "original_page": 114,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Groundhog",
       "slug": "groundhog",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5220,10 +4995,7 @@
       ],
       "chord_sections": [],
       "original_page": 115,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Groundspeed",
@@ -5272,15 +5044,12 @@
       ],
       "chord_sections": [],
       "original_page": 117,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "He Did A Surgery In My Heart",
       "slug": "he-did-a-surgery-in-my-heart",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -5342,15 +5111,12 @@
       ],
       "chord_sections": [],
       "original_page": 118,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "He Stopped Loving Her Today",
       "slug": "he-stopped-loving-her-today",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5391,10 +5157,7 @@
       ],
       "chord_sections": [],
       "original_page": 120,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "He Took Your Place",
@@ -5448,7 +5211,7 @@
     {
       "title": "He Will Set Your Fields On Fire",
       "slug": "he-will-set-your-fields-on-fire",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5493,10 +5256,7 @@
       ],
       "chord_sections": [],
       "original_page": 121,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Head Over Heels",
@@ -5552,7 +5312,7 @@
     {
       "title": "Head Over Heels In Love",
       "slug": "head-over-heels-in-love",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -5584,15 +5344,12 @@
       ],
       "chord_sections": [],
       "original_page": 122,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hear The Willow Cry",
       "slug": "hear-the-willow-cry",
-      "key": "C",
+      "key": "E",
       "lyrics": [
         {
           "type": "verse",
@@ -5630,15 +5387,12 @@
       ],
       "chord_sections": [],
       "original_page": 123,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hello Darling",
       "slug": "hello-darling",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5679,15 +5433,12 @@
       ],
       "chord_sections": [],
       "original_page": 124,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hello Mary Lou",
       "slug": "hello-mary-lou",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5720,15 +5471,12 @@
       ],
       "chord_sections": [],
       "original_page": 125,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hey Good Lookin'",
       "slug": "hey-good-lookin",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5769,15 +5517,12 @@
       ],
       "chord_sections": [],
       "original_page": 126,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hickory Wind",
       "slug": "hickory-wind",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5815,15 +5560,12 @@
       ],
       "chord_sections": [],
       "original_page": 127,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "High Lonesome Sound",
       "slug": "high-lonesome-sound",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5855,15 +5597,12 @@
       ],
       "chord_sections": [],
       "original_page": 129,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "High on a Mountain",
       "slug": "high-on-a-mountain",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -5895,15 +5634,12 @@
       ],
       "chord_sections": [],
       "original_page": 128,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hit Parade Of Love",
       "slug": "hit-parade-of-love",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -5945,15 +5681,12 @@
       ],
       "chord_sections": [],
       "original_page": 130,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hold On",
       "slug": "hold-on",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6016,15 +5749,12 @@
       ],
       "chord_sections": [],
       "original_page": 131,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hold What Ya Got",
       "slug": "hold-what-ya-got",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6061,10 +5791,7 @@
       ],
       "chord_sections": [],
       "original_page": 132,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Home Sweet Home",
@@ -6081,7 +5808,7 @@
     {
       "title": "Honey You Don\u2019t Know My Mind",
       "slug": "honey-you-don-t-know-my-mind",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6122,10 +5849,7 @@
       ],
       "chord_sections": [],
       "original_page": 134,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Hot Corn, Cold Corn",
@@ -6218,7 +5942,7 @@
     {
       "title": "Hundred Years From Now",
       "slug": "hundred-years-from-now",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6250,15 +5974,12 @@
       ],
       "chord_sections": [],
       "original_page": 137,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Am A Pilgrim",
       "slug": "i-am-a-pilgrim",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -6290,15 +6011,12 @@
       ],
       "chord_sections": [],
       "original_page": 138,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Can't Stop Loving You (A)",
       "slug": "i-can-t-stop-loving-you-a",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6336,10 +6054,7 @@
       ],
       "chord_sections": [],
       "original_page": 139,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Dreamed of an Old Love Affair",
@@ -6393,7 +6108,7 @@
     {
       "title": "I Feel Closer to Heaven Everyday",
       "slug": "i-feel-closer-to-heaven-everyday",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6425,15 +6140,12 @@
       ],
       "chord_sections": [],
       "original_page": 141,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Heard My Mother Call My Name",
       "slug": "i-heard-my-mother-call-my-name",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6474,15 +6186,12 @@
       ],
       "chord_sections": [],
       "original_page": 142,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Saw the Light",
       "slug": "i-saw-the-light",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6523,15 +6232,12 @@
       ],
       "chord_sections": [],
       "original_page": 143,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Still Carry You Around",
       "slug": "i-still-carry-you-around",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6545,15 +6251,12 @@
       ],
       "chord_sections": [],
       "original_page": 144,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Tell It Like It Used To Be",
       "slug": "i-tell-it-like-it-used-to-be",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6585,15 +6288,12 @@
       ],
       "chord_sections": [],
       "original_page": 145,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Washed My Hands In Muddy",
       "slug": "i-washed-my-hands-in-muddy",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6643,15 +6343,12 @@
       ],
       "chord_sections": [],
       "original_page": 146,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Wonder How The Old Folks Are",
       "slug": "i-wonder-how-the-old-folks-are",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6683,10 +6380,7 @@
       ],
       "chord_sections": [],
       "original_page": 147,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I Wonder Where You Are Tonight",
@@ -6731,15 +6425,12 @@
       ],
       "chord_sections": [],
       "original_page": 148,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019ll Be Going To Heaven Sometime",
       "slug": "i-ll-be-going-to-heaven-sometime",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6780,10 +6471,7 @@
       ],
       "chord_sections": [],
       "original_page": 149,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I'll Fly Away",
@@ -6842,7 +6530,7 @@
     {
       "title": "I'll Go Stepping Too",
       "slug": "i-ll-go-stepping-too",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6881,15 +6569,12 @@
       ],
       "chord_sections": [],
       "original_page": 151,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I'll Go To My Grave Loving You",
       "slug": "i-ll-go-to-my-grave-loving-you",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6930,15 +6615,12 @@
       ],
       "chord_sections": [],
       "original_page": 152,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019ll Just Pretend",
       "slug": "i-ll-just-pretend",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -6979,15 +6661,12 @@
       ],
       "chord_sections": [],
       "original_page": 153,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019ll Never Love Another",
       "slug": "i-ll-never-love-another",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7028,15 +6707,12 @@
       ],
       "chord_sections": [],
       "original_page": 154,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019ll Never Shed Another Tear",
       "slug": "i-ll-never-shed-another-tear",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7077,15 +6753,12 @@
       ],
       "chord_sections": [],
       "original_page": 155,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I'll Stay Around",
       "slug": "i-ll-stay-around",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7126,15 +6799,12 @@
       ],
       "chord_sections": [],
       "original_page": 156,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I'm Going Back To Old Kentucky",
       "slug": "i-m-going-back-to-old-kentucky",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7148,15 +6818,12 @@
       ],
       "chord_sections": [],
       "original_page": 157,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019m Going To Make Heaven",
       "slug": "i-m-going-to-make-heaven",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7197,15 +6864,12 @@
       ],
       "chord_sections": [],
       "original_page": 158,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I'm Gonna Be Moving",
       "slug": "i-m-gonna-be-moving",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7242,10 +6906,7 @@
       ],
       "chord_sections": [],
       "original_page": 159,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019m Thinking Tonight Of My Blue",
@@ -7291,15 +6952,12 @@
       ],
       "chord_sections": [],
       "original_page": 160,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019m Using My Bible For A Roadmap",
       "slug": "i-m-using-my-bible-for-a-roadmap",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -7322,15 +6980,12 @@
       ],
       "chord_sections": [],
       "original_page": 161,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019m Working On A Building",
       "slug": "i-m-working-on-a-building",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7377,10 +7032,7 @@
       ],
       "chord_sections": [],
       "original_page": 162,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "In His Arms, I'm Not Afraid",
@@ -7417,15 +7069,12 @@
       ],
       "chord_sections": [],
       "original_page": 163,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "In The Jailhouse Now",
       "slug": "in-the-jailhouse-now",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7481,10 +7130,7 @@
       ],
       "chord_sections": [],
       "original_page": 164,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "In the Pines",
@@ -7574,15 +7220,12 @@
       ],
       "chord_sections": [],
       "original_page": 166,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "It Takes One To Know One",
       "slug": "it-takes-one-to-know-one",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7614,15 +7257,12 @@
       ],
       "chord_sections": [],
       "original_page": 167,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019ve Just Seen A Face",
       "slug": "i-ve-just-seen-a-face",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7677,15 +7317,12 @@
       ],
       "chord_sections": [],
       "original_page": 168,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "I\u2019ve Just Seen The Rock Of Ages",
       "slug": "i-ve-just-seen-the-rock-of-ages",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7726,10 +7363,7 @@
       ],
       "chord_sections": [],
       "original_page": 169,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Jackson",
@@ -7797,15 +7431,12 @@
       ],
       "chord_sections": [],
       "original_page": 170,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Jambalaya",
       "slug": "jambalaya",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7837,10 +7468,7 @@
       ],
       "chord_sections": [],
       "original_page": 171,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "John Hardy",
@@ -7904,7 +7532,7 @@
     {
       "title": "John Henry",
       "slug": "john-henry",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7943,15 +7571,12 @@
       ],
       "chord_sections": [],
       "original_page": 173,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Just A Closer Walk With Thee",
       "slug": "just-a-closer-walk-with-thee",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -7965,15 +7590,12 @@
       ],
       "chord_sections": [],
       "original_page": 174,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Just A Little Talk With Jesus",
       "slug": "just-a-little-talk-with-jesus",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8005,15 +7627,12 @@
       ],
       "chord_sections": [],
       "original_page": 175,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Just an Old Rounder",
       "slug": "just-an-old-rounder",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8047,15 +7666,12 @@
       ],
       "chord_sections": [],
       "original_page": 176,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Kansas City",
       "slug": "kansas-city",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8085,15 +7701,12 @@
       ],
       "chord_sections": [],
       "original_page": 177,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Katy Cline",
       "slug": "katy-cline",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8134,15 +7747,12 @@
       ],
       "chord_sections": [],
       "original_page": 178,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Katy Daley",
       "slug": "katy-daley",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8183,10 +7793,7 @@
       ],
       "chord_sections": [],
       "original_page": 179,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Katy Daly",
@@ -8281,7 +7888,7 @@
     {
       "title": "Kentucky Waltz",
       "slug": "kentucky-waltz",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8313,15 +7920,12 @@
       ],
       "chord_sections": [],
       "original_page": 181,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "King of the Road",
       "slug": "king-of-the-road",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8352,15 +7956,12 @@
       ],
       "chord_sections": [],
       "original_page": 182,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Leaning On The Everlasting Arms",
       "slug": "leaning-on-the-everlasting-arms",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8401,15 +8002,12 @@
       ],
       "chord_sections": [],
       "original_page": 183,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Let's All Go Down to the River",
       "slug": "let-s-all-go-down-to-the-river",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8441,15 +8039,12 @@
       ],
       "chord_sections": [],
       "original_page": 184,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Life\u2019s Railway to Heaven",
       "slug": "life-s-railway-to-heaven",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8499,15 +8094,12 @@
       ],
       "chord_sections": [],
       "original_page": 185,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Listening To The Rain",
       "slug": "listening-to-the-rain",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8551,10 +8143,7 @@
       ],
       "chord_sections": [],
       "original_page": 186,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Little Cabin Home on the Hill",
@@ -8796,15 +8385,12 @@
       ],
       "chord_sections": [],
       "original_page": 190,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Lonesome Pine",
       "slug": "lonesome-pine",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -8852,10 +8438,7 @@
       ],
       "chord_sections": [],
       "original_page": 191,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Lonesome Road Blues",
@@ -8998,7 +8581,7 @@
     {
       "title": "Long Black Veil",
       "slug": "long-black-veil",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9039,10 +8622,7 @@
       ],
       "chord_sections": [],
       "original_page": 195,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Long Journey Home",
@@ -9205,7 +8785,7 @@
     {
       "title": "Love Of The Mountains",
       "slug": "love-of-the-mountains",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9246,10 +8826,7 @@
       ],
       "chord_sections": [],
       "original_page": 199,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Love Please Come Home",
@@ -9344,15 +8921,12 @@
       ],
       "chord_sections": [],
       "original_page": 201,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Mama Don\u2019t \u2018low",
       "slug": "mama-don-t-low",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9407,15 +8981,12 @@
       ],
       "chord_sections": [],
       "original_page": 202,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Mama Tried",
       "slug": "mama-tried",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -9457,15 +9028,12 @@
       ],
       "chord_sections": [],
       "original_page": 203,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Man in the Middle",
       "slug": "man-in-the-middle",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9515,10 +9083,7 @@
       ],
       "chord_sections": [],
       "original_page": 204,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Man of Constant Sorrow",
@@ -9578,7 +9143,7 @@
     {
       "title": "Martha White",
       "slug": "martha-white",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9602,15 +9167,12 @@
       ],
       "chord_sections": [],
       "original_page": 206,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Mighty Dark To Travel",
       "slug": "mighty-dark-to-travel",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9651,15 +9213,12 @@
       ],
       "chord_sections": [],
       "original_page": 207,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Molly And Tenbrooks",
       "slug": "molly-and-tenbrooks",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9720,10 +9279,7 @@
       ],
       "chord_sections": [],
       "original_page": 208,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "More Pretty Girls Than One",
@@ -9770,7 +9326,7 @@
     {
       "title": "Mountain Dew",
       "slug": "mountain-dew",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9829,15 +9385,12 @@
       ],
       "chord_sections": [],
       "original_page": 209,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Muddy Waters",
       "slug": "muddy-waters",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -9869,10 +9422,7 @@
       ],
       "chord_sections": [],
       "original_page": 210,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "My Cabin In Caroline",
@@ -9918,10 +9468,7 @@
       ],
       "chord_sections": [],
       "original_page": 211,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "My Little Girl In Tennessee",
@@ -9967,10 +9514,7 @@
       ],
       "chord_sections": [],
       "original_page": 212,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "My Rose of Old Kentucky",
@@ -10017,7 +9561,7 @@
     {
       "title": "My Sweet Blue-Eyed Darling",
       "slug": "my-sweet-blue-eyed-darling",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10049,15 +9593,12 @@
       ],
       "chord_sections": [],
       "original_page": 213,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "My Walking Shoes",
       "slug": "my-walking-shoes",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10090,10 +9631,7 @@
       ],
       "chord_sections": [],
       "original_page": 214,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "New River Train",
@@ -10152,7 +9690,7 @@
     {
       "title": "Nine-Pound Hammer",
       "slug": "nine-pound-hammer",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10192,15 +9730,12 @@
       ],
       "chord_sections": [],
       "original_page": 216,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ninety-Nine Years",
       "slug": "ninety-nine-years",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10241,15 +9776,12 @@
       ],
       "chord_sections": [],
       "original_page": 217,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "No Mother Or Dad",
       "slug": "no-mother-or-dad",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10290,15 +9822,12 @@
       ],
       "chord_sections": [],
       "original_page": 218,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Nothing Ever Hurt Me",
       "slug": "nothing-ever-hurt-me",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10357,15 +9886,12 @@
       ],
       "chord_sections": [],
       "original_page": 219,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Oh Lonesome Me",
       "slug": "oh-lonesome-me",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10387,15 +9913,12 @@
       ],
       "chord_sections": [],
       "original_page": 220,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Old Crossroads",
       "slug": "old-crossroads",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10436,10 +9959,7 @@
       ],
       "chord_sections": [],
       "original_page": 221,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Old Home Place",
@@ -10556,7 +10076,7 @@
     {
       "title": "On And On",
       "slug": "on-and-on",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10597,15 +10117,12 @@
       ],
       "chord_sections": [],
       "original_page": 223,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "On the Other Hand",
       "slug": "on-the-other-hand",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -10638,15 +10155,12 @@
       ],
       "chord_sections": [],
       "original_page": 224,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Once More",
       "slug": "once-more",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10690,15 +10204,12 @@
       ],
       "chord_sections": [],
       "original_page": 225,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Open Up Your Mouth",
       "slug": "open-up-your-mouth",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10745,10 +10256,7 @@
       ],
       "chord_sections": [],
       "original_page": 226,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Over In The Glory Land",
@@ -10796,15 +10304,12 @@
       ],
       "chord_sections": [],
       "original_page": 227,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Pain In My Heart",
       "slug": "pain-in-my-heart",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10836,15 +10341,12 @@
       ],
       "chord_sections": [],
       "original_page": 228,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Paradise",
       "slug": "paradise",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10894,15 +10396,12 @@
       ],
       "chord_sections": [],
       "original_page": 229,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Pig In A Pen",
       "slug": "pig-in-a-pen",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -10956,10 +10455,7 @@
       ],
       "chord_sections": [],
       "original_page": 230,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Pike County Breakdown",
@@ -11026,15 +10522,12 @@
       ],
       "chord_sections": [],
       "original_page": 232,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Preachin\u2019 Prayin\u2019 Singin\u2019",
       "slug": "preachin-prayin-singin",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11066,15 +10559,12 @@
       ],
       "chord_sections": [],
       "original_page": 233,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Pretty Polly",
       "slug": "pretty-polly",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11143,15 +10633,12 @@
       ],
       "chord_sections": [],
       "original_page": 234,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Purple Robe",
       "slug": "purple-robe",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -11193,10 +10680,7 @@
       ],
       "chord_sections": [],
       "original_page": 235,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Rabbit In The Log",
@@ -11308,7 +10792,7 @@
     {
       "title": "Rank Strangers",
       "slug": "rank-strangers",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11340,15 +10824,12 @@
       ],
       "chord_sections": [],
       "original_page": 237,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Red River Valley",
       "slug": "red-river-valley",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11389,10 +10870,7 @@
       ],
       "chord_sections": [],
       "original_page": 238,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Red Wing",
@@ -11515,15 +10993,12 @@
       ],
       "chord_sections": [],
       "original_page": 244,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Ring The Bell",
       "slug": "ring-the-bell",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11574,15 +11049,12 @@
       ],
       "chord_sections": [],
       "original_page": 243,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "River Of Jordan",
       "slug": "river-of-jordan",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11638,10 +11110,7 @@
       ],
       "chord_sections": [],
       "original_page": 245,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Rocky Top",
@@ -11750,7 +11219,7 @@
     {
       "title": "Roving Gambler",
       "slug": "roving-gambler",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11819,15 +11288,12 @@
       ],
       "chord_sections": [],
       "original_page": 248,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Sadie's Got Her New Dress On",
       "slug": "sadie-s-got-her-new-dress-on",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11868,10 +11334,7 @@
       ],
       "chord_sections": [],
       "original_page": 249,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Salt Creek",
@@ -11888,7 +11351,7 @@
     {
       "title": "Salty Dog",
       "slug": "salty-dog",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11941,15 +11404,12 @@
       ],
       "chord_sections": [],
       "original_page": 251,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Saro Jane",
       "slug": "saro-jane",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -11990,15 +11450,12 @@
       ],
       "chord_sections": [],
       "original_page": 252,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Setting The Woods On Fire",
       "slug": "setting-the-woods-on-fire",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12020,15 +11477,12 @@
       ],
       "chord_sections": [],
       "original_page": 253,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Shackles and Chains",
       "slug": "shackles-and-chains",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12066,10 +11520,7 @@
       ],
       "chord_sections": [],
       "original_page": 254,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Shady Grove",
@@ -12121,7 +11572,7 @@
     {
       "title": "She Thinks I Still Care",
       "slug": "she-thinks-i-still-care",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12143,10 +11594,7 @@
       ],
       "chord_sections": [],
       "original_page": 256,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Shenandoah Breakdown",
@@ -12180,7 +11628,7 @@
     {
       "title": "Shouting On The Hills",
       "slug": "shouting-on-the-hills",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12221,10 +11669,7 @@
       ],
       "chord_sections": [],
       "original_page": 258,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Shuckin\u2019 The Corn",
@@ -12241,7 +11686,7 @@
     {
       "title": "Sing Me Back Home",
       "slug": "sing-me-back-home",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12273,15 +11718,12 @@
       ],
       "chord_sections": [],
       "original_page": 261,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Sittin\u2019 On Top Of The World",
       "slug": "sittin-on-top-of-the-world",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12331,10 +11773,7 @@
       ],
       "chord_sections": [],
       "original_page": 262,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Sitting Alone in the Moonlight",
@@ -12444,7 +11883,7 @@
     {
       "title": "Sleep With One Eye Open",
       "slug": "sleep-with-one-eye-open",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -12485,15 +11924,12 @@
       ],
       "chord_sections": [],
       "original_page": 264,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Slewfoot",
       "slug": "slewfoot",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12534,10 +11970,7 @@
       ],
       "chord_sections": [],
       "original_page": 265,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Slimy River Bottom (Doug's Tune)",
@@ -12552,7 +11985,7 @@
     {
       "title": "So Happy I\u2019ll Be",
       "slug": "so-happy-i-ll-be",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12594,15 +12027,12 @@
       ],
       "chord_sections": [],
       "original_page": 267,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Somehow Tonight",
       "slug": "somehow-tonight",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12634,15 +12064,12 @@
       ],
       "chord_sections": [],
       "original_page": 268,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Someone Took My Place With You",
       "slug": "someone-took-my-place-with-you",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12683,15 +12110,12 @@
       ],
       "chord_sections": [],
       "original_page": 269,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Sophronie",
       "slug": "sophronie",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12732,10 +12156,7 @@
       ],
       "chord_sections": [],
       "original_page": 270,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Stay All Night",
@@ -12799,7 +12220,7 @@
     {
       "title": "Steal Away",
       "slug": "steal-away",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12840,15 +12261,12 @@
       ],
       "chord_sections": [],
       "original_page": 271,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Steam Powered Aeroplane",
       "slug": "steam-powered-aeroplane",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12886,10 +12304,7 @@
       ],
       "chord_sections": [],
       "original_page": 272,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Stepping Stone (A)",
@@ -12953,15 +12368,12 @@
       ],
       "chord_sections": [],
       "original_page": 273,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Stone Walls And Steel Bars",
       "slug": "stone-walls-and-steel-bars",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -12997,15 +12409,12 @@
       ],
       "chord_sections": [],
       "original_page": 274,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Streamlined Cannonball",
       "slug": "streamlined-cannonball",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -13046,15 +12455,12 @@
       ],
       "chord_sections": [],
       "original_page": 275,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Sunny Side of the Mountain",
       "slug": "sunny-side-of-the-mountain",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13086,15 +12492,12 @@
       ],
       "chord_sections": [],
       "original_page": 276,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Sweet Bye And Bye",
       "slug": "sweet-bye-and-bye",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13135,15 +12538,12 @@
       ],
       "chord_sections": [],
       "original_page": 277,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Swing Low Sweet Chariot",
       "slug": "swing-low-sweet-chariot",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13193,15 +12593,12 @@
       ],
       "chord_sections": [],
       "original_page": 278,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Take Me In Your Lifeboat",
       "slug": "take-me-in-your-lifeboat",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13233,15 +12630,12 @@
       ],
       "chord_sections": [],
       "original_page": 279,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Tear My Stillhouse Down",
       "slug": "tear-my-stillhouse-down",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13282,10 +12676,7 @@
       ],
       "chord_sections": [],
       "original_page": 280,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Tennessee 1949",
@@ -13339,15 +12730,12 @@
       ],
       "chord_sections": [],
       "original_page": 281,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Thank God",
       "slug": "thank-god",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -13389,10 +12777,7 @@
       ],
       "chord_sections": [],
       "original_page": 282,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "(The) Bottle Let Me Down",
@@ -13443,7 +12828,7 @@
     {
       "title": "The Whisky Ain\u2019t Working Any More",
       "slug": "the-whisky-ain-t-working-any-more",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13485,10 +12870,7 @@
       ],
       "chord_sections": [],
       "original_page": 308,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Theme Time",
@@ -13505,7 +12887,7 @@
     {
       "title": "There Is A Time",
       "slug": "there-is-a-time",
-      "key": "C",
+      "key": "A",
       "lyrics": [
         {
           "type": "verse",
@@ -13537,15 +12919,12 @@
       ],
       "chord_sections": [],
       "original_page": 285,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "There\u2019s An Old, Old House",
       "slug": "there-s-an-old-old-house",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13584,15 +12963,12 @@
       ],
       "chord_sections": [],
       "original_page": 284,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "They're Holding Up The Ladder",
       "slug": "they-re-holding-up-the-ladder",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13633,10 +13009,7 @@
       ],
       "chord_sections": [],
       "original_page": 286,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Thing Called Love",
@@ -13691,7 +13064,7 @@
     {
       "title": "Think Of What You've Done",
       "slug": "think-of-what-you-ve-done",
-      "key": "C",
+      "key": "F",
       "lyrics": [
         {
           "type": "verse",
@@ -13723,15 +13096,12 @@
       ],
       "chord_sections": [],
       "original_page": 288,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Thinking About Drinking",
       "slug": "thinking-about-drinking",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13771,15 +13141,12 @@
       ],
       "chord_sections": [],
       "original_page": 289,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "This World Is Not My Home",
       "slug": "this-world-is-not-my-home",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13820,15 +13187,12 @@
       ],
       "chord_sections": [],
       "original_page": 290,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Three Men on a Mountain",
       "slug": "three-men-on-a-mountain",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13916,15 +13280,12 @@
       ],
       "chord_sections": [],
       "original_page": 291,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Truck Driving Man",
       "slug": "truck-driving-man",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -13965,15 +13326,12 @@
       ],
       "chord_sections": [],
       "original_page": 293,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Turn Your Radio On",
       "slug": "turn-your-radio-on",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14011,15 +13369,12 @@
       ],
       "chord_sections": [],
       "original_page": 294,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Two Story House",
       "slug": "two-story-house",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14060,15 +13415,12 @@
       ],
       "chord_sections": [],
       "original_page": 295,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Uncle Pen",
       "slug": "uncle-pen",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14109,15 +13461,12 @@
       ],
       "chord_sections": [],
       "original_page": 296,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Uncloudy Day",
       "slug": "uncloudy-day",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14167,15 +13516,12 @@
       ],
       "chord_sections": [],
       "original_page": 296,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Used To Be",
       "slug": "used-to-be",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14207,10 +13553,7 @@
       ],
       "chord_sections": [],
       "original_page": 298,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Vincent Black Lightning 1952",
@@ -14290,10 +13633,7 @@
       ],
       "chord_sections": [],
       "original_page": 299,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Wabash Cannonball",
@@ -14357,7 +13697,7 @@
     {
       "title": "Wagon Wheel",
       "slug": "wagon-wheel",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14408,15 +13748,12 @@
       ],
       "chord_sections": [],
       "original_page": 300,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Walls of Time",
       "slug": "walls-of-time",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14457,10 +13794,7 @@
       ],
       "chord_sections": [],
       "original_page": 301,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Wayfaring Stranger",
@@ -14532,15 +13866,12 @@
       ],
       "chord_sections": [],
       "original_page": 302,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "We\u2019ll Meet Again Sweetheart",
       "slug": "we-ll-meet-again-sweetheart",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14581,15 +13912,12 @@
       ],
       "chord_sections": [],
       "original_page": 303,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "What Would You Give In Exchang",
       "slug": "what-would-you-give-in-exchang",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -14631,15 +13959,12 @@
       ],
       "chord_sections": [],
       "original_page": 304,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "When The Role Is Called",
       "slug": "when-the-role-is-called",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14681,15 +14006,12 @@
       ],
       "chord_sections": [],
       "original_page": 305,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "When The Saints Go Marching In",
       "slug": "when-the-saints-go-marching-in",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14718,15 +14040,12 @@
       ],
       "chord_sections": [],
       "original_page": 306,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Where The Soul Of Man Never Dies",
       "slug": "where-the-soul-of-man-never-dies",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -14755,10 +14074,7 @@
       ],
       "chord_sections": [],
       "original_page": 307,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Whiskey Before Breakfast",
@@ -14823,7 +14139,7 @@
     {
       "title": "White Dove",
       "slug": "white-dove",
-      "key": "C",
+      "key": "D",
       "lyrics": [
         {
           "type": "verse",
@@ -14864,10 +14180,7 @@
       ],
       "chord_sections": [],
       "original_page": 309,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "White Freight Liner Blues",
@@ -14917,10 +14230,7 @@
       ],
       "chord_sections": [],
       "original_page": 310,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "White Freightliner",
@@ -14966,7 +14276,7 @@
     {
       "title": "Who Will Sing For Me",
       "slug": "who-will-sing-for-me",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15007,15 +14317,12 @@
       ],
       "chord_sections": [],
       "original_page": 311,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Why Don\u2019t You Tell Me So",
       "slug": "why-don-t-you-tell-me-so",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15046,10 +14353,7 @@
       ],
       "chord_sections": [],
       "original_page": 312,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Wildwood Flower",
@@ -15119,7 +14423,7 @@
     {
       "title": "Will The Roses Bloom Again",
       "slug": "will-the-roses-bloom-again",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15151,15 +14455,12 @@
       ],
       "chord_sections": [],
       "original_page": 315,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Winter's Come and Gone",
       "slug": "winter-s-come-and-gone",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15199,15 +14500,12 @@
       ],
       "chord_sections": [],
       "original_page": 316,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Wonderful Time Up There",
       "slug": "wonderful-time-up-there",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15256,15 +14554,12 @@
       ],
       "chord_sections": [],
       "original_page": 317,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Working Man Blues",
       "slug": "working-man-blues",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15313,15 +14608,12 @@
       ],
       "chord_sections": [],
       "original_page": 318,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Worried Man Blues",
       "slug": "worried-man-blues",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15371,15 +14663,12 @@
       ],
       "chord_sections": [],
       "original_page": 319,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Wreck of the Old 97",
       "slug": "wreck-of-the-old-97",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15409,15 +14698,12 @@
       ],
       "chord_sections": [],
       "original_page": 320,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "You Are My Flower",
       "slug": "you-are-my-flower",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15443,15 +14729,12 @@
       ],
       "chord_sections": [],
       "original_page": 321,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "You Are My Sunshine",
       "slug": "you-are-my-sunshine",
-      "key": "C",
+      "key": "G",
       "lyrics": [
         {
           "type": "verse",
@@ -15492,10 +14775,7 @@
       ],
       "chord_sections": [],
       "original_page": 322,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "You Can Have Her",
@@ -15541,10 +14821,7 @@
       ],
       "chord_sections": [],
       "original_page": 323,
-      "_source": "folksociety-bluegrass-songbook-2018",
-      "_warnings": [
-        "nashville-default-key: chord cells use C as the 1-degree reference; source PDF uses key-agnostic Nashville notation, so the canonical recording key is unspecified"
-      ]
+      "_source": "folksociety-bluegrass-songbook-2018"
     },
     {
       "title": "Your Love is Like a Flower",
