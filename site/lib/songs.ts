@@ -98,13 +98,14 @@ export function chartFilenameForSlug(slug: string): string | null {
   return manifest[slug] ?? null;
 }
 
-// Inline-chord markers in the FolkSociety-imported lyrics look like
-// "[D]Now there's [D7]healing in the [G]blood". Strip them for clean
-// reading; the chord chart at the top of the page is the source of truth.
-// Collapses doubled whitespace that the bracket removal can leave behind,
-// but preserves song-internal hyphenation (e.g. "willing-ly").
-const INLINE_CHORD_RE = /\[[A-G][#b]?(?:maj7|min7|m7|m|7|dim|aug|sus2|sus4)?(?:\/[A-G][#b]?)?\]/g;
+// Inline annotation markers in the FolkSociety-imported lyrics. Three families:
+//   - Chord brackets:  "[D]Now there's [D7]healing in the [G]blood"
+//   - Chord variants:  "[G!]" (staccato), "[NC]"/"[n.c.]" (no chord)
+//   - Performance notes: "[repeat last 2 lines]", "[F – strum & stop]"
+// Strip all of them for clean reading; the chord chart at the top of the page
+// is the source of truth. Single-line brackets only — never spans a newline.
+const INLINE_ANNOTATION_RE = /\[[^\]\n]*\]/g;
 
 export function stripInlineChords(line: string): string {
-  return line.replace(INLINE_CHORD_RE, "").replace(/[ \t]{2,}/g, " ").trim();
+  return line.replace(INLINE_ANNOTATION_RE, "").replace(/[ \t]{2,}/g, " ").trim();
 }
