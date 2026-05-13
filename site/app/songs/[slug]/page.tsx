@@ -5,6 +5,7 @@ import {
   getSong,
   getGrid,
   chartFilenameForSlug,
+  stripInlineChords,
 } from "@/lib/songs";
 import ChordChartFallback from "./chart-fallback";
 import ChordSectionInteractive from "./chord-section";
@@ -63,7 +64,7 @@ export default async function SongPage({
                   {block.type}
                 </div>
                 <div className="lyric-block font-serif text-lg">
-                  {block.lines.join("\n")}
+                  {block.lines.map(stripInlineChords).join("\n")}
                 </div>
               </div>
             ))}
