@@ -7,6 +7,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+
+- **Search and transpose no longer crash on songs with no key.** The
+  FolkSociety import left 13 songs with `key: null` (Angeline the Baker,
+  I'll Fly Away, In the Pines, Will the Circle Be Unbroken, etc.). Typing
+  in the search box called `null.toLowerCase()` and clicking transpose
+  called `null.match()`, both throwing and breaking the feature. Search and
+  transpose are now null-safe, and the 13 null keys were backfilled from the
+  authoritative chord-grid keys in `chord-grids.json`.
+
 ### Added
 
 - **FolkSociety Bluegrass Songbook import** (2018 edition, 324 pages,
