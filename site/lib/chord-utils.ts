@@ -31,6 +31,7 @@ export function transposeNote(note: string, semitones: number): string {
 }
 
 export function transposeKey(key: string, semitones: number): string {
+  if (!key) return key ?? "";
   const match = key.match(/^([A-G][#b]?)(.*)/);
   if (!match) return key;
   return transposeNote(match[1], semitones) + match[2];

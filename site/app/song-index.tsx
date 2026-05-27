@@ -13,8 +13,8 @@ export default function SongIndex({ songs }: { songs: Item[] }) {
     if (!needle) return songs;
     return songs.filter(
       (s) =>
-        s.title.toLowerCase().includes(needle) ||
-        s.key.toLowerCase().includes(needle),
+        (s.title ?? "").toLowerCase().includes(needle) ||
+        (s.key ?? "").toLowerCase().includes(needle),
     );
   }, [q, songs]);
 
