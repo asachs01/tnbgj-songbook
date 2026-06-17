@@ -1,0 +1,54 @@
+name: Deploy to Netlify
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: netlify-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: site
+
+      # No BASE_PATH: Netlify serves at the domain root, unlike GitHub Pages.
+      - name: Build
+        run: npm run build
+        working-directory: site
+
+      # Stage the static export outside the repo so the Netlify CLI does a pure
+      # static upload instead of re-running the build from netlify.toml.
+      - name: Stage output
+        run: |
+          mkdir -p "$RUNNER_TEMP/publish"
+          cp -R site/out/. "$RUNNER_TEMP/publish/"
+
+      - name: Deploy to Netlify production
+        working-directory: ${{ runner.temp }}
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          npx --yes netlify-cli@26 deploy \
+            --prod \
+            --dir "$RUNNER_TEMP/publish" \
+            --site "${{ secrets.NETLIFY_SITE_ID }}" \
+            --message "CI deploy ${{ github.sha }}"
